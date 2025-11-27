@@ -13,12 +13,12 @@ jobs:
 
     - name: Export characters
       run: |
-        .\nandeck\nanDECK.exe .\nandeck\decks\character-deck.txt /exec
+        .\nandeck\nanDECK.exe .\nandeck\decks\cards.txt /exec
       shell: cmd
 
     - name: Export main deck
       run: |
-        .\nandeck\nanDECK.exe .\nandeck\decks\card-deck.txt /exec
+        .\nandeck\nanDECK.exe .\nandeck\decks\characters.txt /exec
       shell: cmd
       
     - name: Upload Export Folder
