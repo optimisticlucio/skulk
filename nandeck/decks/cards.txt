@@ -1,0 +1,28 @@
+LINKMULCOPY=OFF
+LINKMULTI=count
+LINK=..\..\csv\cards.csv
+
+VISUAL=S, 10, 10
+;Card Art
+IMAGE=,"../../img/[img]",0%,{-79/120}%,100%,{3031/30}%
+;[Cost]Background
+RECTANGLE=,{-7/25}%,{-14/75}%,{8293/400}%,{12191/600}%,#A9A9A9
+;[Cost]Font
+FONT=Arial,30,TB,#000000
+;[Cost]Text
+TEXT="1-{(COST)}",[COST],{197/200}%,{169/200}%,{476/25}%,{2681/150}%,CENTER,WWCENTER
+;Card Description Background
+RECTANGLE=,{519/40}%,{22013/300}%,{14753/200}%,{3697/150}%,#808080#A9A9A9#808080@0
+;Card Description Font
+FONT=Arial,10,T,#000000
+;Card Description(size)
+TEXT="1-{(DESCRIPTION)}",[DESCRIPTION],{1117/80}%,{473/6}%,70%,20%,CENTER,WWCENTER
+;Card Name Background
+RECTANGLE=,{643/80}%,{511/8}%,{16897/200}%,{2173/150}%,#A9A9A9
+;Card Name Font
+FONT=Arial,12,TB,#000000
+;Card Name
+TEXT="1-{(NAME)}",[NAME],{409/50}%,{511/8}%,{33511/400}%,{8861/600}%,CENTER,WWCENTER
+ENDVISUAL
+
+DISPLAY="..\export\deck{§}.png",,,10x7

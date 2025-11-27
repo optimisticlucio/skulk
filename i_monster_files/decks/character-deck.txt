@@ -1,0 +1,13 @@
+LINK=..\..\csv\characters.csv
+
+cardsize=10,6
+VISUAL=HV, 10, 10
+IMAGE=,"..\..\img\[image]",0%,0%,2.5,2.5
+FONT=Arial,20,BU,#000000
+TEXT="1-{(NAME)}",[NAME],3,0,6,2,LEFT,CENTER,0,100,,0,0,0
+FONT=Arial,10,,#000000
+TEXT=,"Modifier: [MODIFIER]",0.2,2.5,9.8,2,LEFT,WWTOP
+TEXT=,"Ability costs [ABILITY]",0.2,4.5,9.8,1.5,LEFT,WWTOP
+ENDVISUAL
+
+DISPLAY="..\export\characters{ֲ§}.png",,,5x7

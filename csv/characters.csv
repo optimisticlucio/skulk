@@ -1,6 +1,5 @@
 name,image,modifier,ability
-Fly,i-monster.jpg,Nothing. You just want to go back to your life.,2 Suspicion: Return all cards currently in the shop to the main deck and shuffle it. Refill the shop.
-Cultist,flagellant.png,"At the start of the game shuffle the Sacrificial Deck, and use it as another shop with only 3 cards revealed; abilities referring to ""the shop"" may refer to it. Purchasing cards from the Sacrificial Shop is done by erasing cards from your hand with equal or lesser cost than the purchased card.",2 Suspicion: Gain 4 Goodwill.
-Shapeshifter,he_coordination.webp,TODO. What's a shapeshifter to do? ,"X Suspicion: Copy the effect of a card in the shop. X is half the card's cost, rounded up."
-Ghost,charlie_brown_ghost.jpg,"When a card would be erased, it instead goes to The Graveyard. The Graveyard can be looked at by all players.","2 Suspicion: Copy the ability of a card from the graveyard, remove it from the game."
-Leprechaun,lets-go-gambling.jpg,"Bring a six-sided die that can be used by all players. If your rolls' sum values exceed 28 in one turn, you win.","2 Suspicion: Roll the die! (1, 2) Nothing happens. (3) Gain 3 Goodwill. (4) Inflict 4 suspicion. (5) Draw two cards.  (6) Gain a shop card for free."
+Wendigo,todo.webp,TODO,TODO
+Mothman,todo.webp,TODO,TODO
+Flatwoods Monster,todo.webp,TODO,TODO
+Loveland Frog,todo.webp,TODO,TODO
