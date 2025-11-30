@@ -1,14 +1,38 @@
 count,name,cost,alliance,img,description
-1,CARD WHAT DRAWS,0,neutral,todo.webp,Draw two cards.
-1,CARD WHAT MORE DRAWS,0,neutral,todo.webp,Draw three cards.
-1,CARD WHAT HELP YOU BOTH,0,neutral,todo.webp,"Draw two cards, your opponent draws a card."
-1,CARD WHAT MAKE BIG COMBO,0,neutral,todo.webp,"For every two cards you've played this turn, inflict suspicion."
-1,CARD WHAT GENERALLY GOOD,0,neutral,todo.webp,Gain 2 Fear.
-1,CARD WHAT CAN BUILD DECK FOR,0,neutral,todo.webp,Inflict suspicion for every time you've played this card this game.
-1,CARD THAT IS GENERIC,0,neutral,todo.webp,Copy the effect of a card in your play area.
-1,KIDNAP,0,starting_mothman,todo.webp,"Expel this card, gain a town card."
-1,ITS BACK BABY,0,mothman,todo.webp,"Pick two cards in the graveyard, shuffle them back into the main deck."
-1,LETS GO GAMBLING,0,mothman,todo.webp,"Reveal a random main deck card, copy its effect, reshuffle the main deck."
-1,NOT GONE LOL,0,mothman,todo.webp,"Reveal a random graveyard card, copy its effect."
-1,MAGIC MISSILE,0,loveland,todo.webp,"Roll the Die. If 3 or more, inflict 4 suspicion. Otherwise, self-inflict 2 suspicion."
-1,SLAVES FOR CHEAP,0,flatwoods,todo.webp,Gain a Drone.
+4,CARD WHAT DRAWS,4,neutral,todo.webp,Draw two cards.
+1,CARD WHAT MORE DRAWS,7,neutral,todo.webp,Draw three cards.
+2,CARD WHAT HELP YOU BOTH,3,neutral,todo.webp,"Draw two cards, your opponent draws a card."
+1,CARD WHAT MAKE BIG COMBO,5,neutral,todo.webp,"For every two cards you've played this turn, inflict suspicion."
+6,CARD WHAT GENERALLY GOOD,3,neutral,todo.webp,Gain 2 Fear.
+2,CARD WHAT CAN BUILD DECK FOR,3,neutral,todo.webp,Inflict suspicion for every time you've played this card this game.
+3,CARD THAT IS GENERIC,4,neutral,todo.webp,Copy the effect of a card in your play area.
+1,KIDNAP,,mothman_start,todo.webp,"Erase this card, gain a town card."
+2,ITS BACK BABY,3,mothman,todo.webp,"Pick a graveyard card, place it at the top of the main deck."
+3,LETS GO GAMBLING,2,mothman,todo.webp,"Reveal a random main deck card, copy its effect, reshuffle the main deck."
+3,NOT GONE LOL,2,mothman_start,todo.webp,"Reveal a random graveyard card, copy its effect."
+3,MAGIC MISSILE,4,loveland,todo.webp,"Roll the Die. If 3 or more, inflict 4 suspicion. Otherwise, self-inflict 3 suspicion."
+1,SLAVES FOR CHEAP,,flatwoods_start,todo.webp,Gain a Drone.
+15,DRONE,,flatwoods_drone,todo.webp,Draw a card.
+6,FEAR START CARD,,flatwoods_start,todo.webp,Gain 1 Fear.
+6,FEAR START CARD,,mothman_start,todo.webp,Gain 1 Fear.
+6,FEAR START CARD,,wendigo_start,todo.webp,Gain 1 Fear.
+6,FEAR START CARD,,loveland_start,todo.webp,Gain 1 Fear.
+1,SUSPICION START CARD,,flatwoods_start,todo.webp,Inflict 1 Suspicion.
+1,SUSPICION START CARD,,mothman_start,todo.webp,Inflict 1 Suspicion.
+1,SUSPICION START CARD,,wendigo_start,todo.webp,Inflict 1 Suspicion.
+1,SUSPICION START CARD,,loveland_start,todo.webp,Inflict 1 Suspicion.
+2,DEAD WEIGHT,2,wendigo,todo.webp,"When gained, place in opponent's discard pile. Does nothing."
+3,CARD FOR EARLY GAME,2,mothman,todo.webp,Gain a card that costs 4 or less.
+2,FOLLOW THE LIGHT,4,mothman,todo.webp,"When gained, expel this card, and gain the top 3 cards of the main deck."
+4,INSATIABLE HUNGER,1,wendigo,todo.webp,Gain 1 Fear. You may expel a card from your hand to gain 1 Fear.
+2,POKER HAND TIME,2,mothman,todo.webp,"If 4+ cards in the town have the same cost, reshuffle them into the main deck, and inflict suspicion equal to the amount of cards."
+1,GET FLUSHED BITCH,0,mothman_start,get_a_flush.png,"If 3 town cards have the given cost, and 2 have a separate cost, inflict 6 suspicion. Else, expel a town card."
+1,BLINDING LIGHT,4,mothman,todo.webp,"X is 1. Expel a town card that costs X and inflict X suspicion. You may repeat this card's effect, adding 1 to X, as much as you can."
+1,THAT ROLL SUCKED,,loveland_start,todo.webp,"If you used an effect to roll the die this turn, copy that effect."
+2,GO FOR A 6 PUSSY,3,loveland,todo.webp,"Name a number, roll the die. If you roll lower, self-inflict that number of suspicion. Otherwise, inflict it."
+3,SAME AMOUNT OF CARDS IN HAND,4,wendigo,todo.webp,"Draw 2 cards, expel a card from your hand."
+2,CANNIBALISM,4,wendigo,todo.webp,Expel cards from your play area. Inflict suspicion equal to the cards expelled.
+1,HAHA YOURE FUCKED,8,neutral,todo.webp,Inflict 4 suspicion.
+3,ARE YOU SURE ABOUT THIS,3,neutral,todo.webp,Gain 3 Fear and self-inflict 2 Suspicion.
+2,NUH-UH DON'T COUNT,2,loveland,todo.webp,"Play this card after a die roll, before the effect happens. Add +1 to the roll value."
+4,BASIC WEAPONRY,4,neutral,todo.webp,Inflict 2 Suspicion.

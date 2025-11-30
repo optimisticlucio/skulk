@@ -5,12 +5,17 @@ LINK=..\..\csv\cards.csv
 VISUAL=S, 10, 10
 ;Card Art
 IMAGE=,"../../img/[img]",0%,{-79/120}%,100%,{3031/30}%
+
+;Do not show cost if cost is null
+IF=[COST]=0
 ;[Cost]Background
 RECTANGLE=,{-7/25}%,{-14/75}%,{8293/400}%,{12191/600}%,#A9A9A9
 ;[Cost]Font
 FONT=Arial,30,TB,#000000
 ;[Cost]Text
 TEXT="1-{(COST)}",[COST],{197/200}%,{169/200}%,{476/25}%,{2681/150}%,CENTER,WWCENTER
+ENDIF
+
 ;Card Description Background
 RECTANGLE=,{519/40}%,{22013/300}%,{14753/200}%,{3697/150}%,#808080#A9A9A9#808080@0
 ;Card Description Font
