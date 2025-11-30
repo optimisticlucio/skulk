@@ -1,5 +1,5 @@
-name,image,modifier,ability
-Wendigo,todo.webp,TODO,TODO
-Mothman,todo.webp,TODO,TODO
-Flatwoods Monster,todo.webp,TODO,TODO
-Loveland Frog,todo.webp,TODO,TODO
+name,image,modifier,ability-cost,ability
+Wendigo,wendigo.png,TODO,,TODO
+Mothman,mothman.png,TODO,,TODO
+Flatwoods Monster,flatwoods.png,"At the start of the game, shuffle the drone deck and place it face-down near the shop. Once per turn, either player can gain a drone, at the cost of 1 suspicion.",1,Erase two drones in your hand to gain a shop card for free.
+Loveland Frog,loveland.png,"At the start of the game, take your Magic Die and place it in a convenient location.",,TODO

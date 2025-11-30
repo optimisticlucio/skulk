@@ -3,9 +3,12 @@ count,name,cost,alliance,img,description
 1,CARD WHAT MORE DRAWS,0,neutral,todo.webp,Draw three cards.
 1,CARD WHAT HELP YOU BOTH,0,neutral,todo.webp,"Draw two cards, your opponent draws a card."
 1,CARD WHAT MAKE BIG COMBO,0,neutral,todo.webp,"For every two cards you've played this turn, inflict suspicion."
-1,CARD WHAT GENERALLY GOOD,0,neutral,todo.webp,"Gain 2 Fear."
-1,CARD WHAT CAN BUILD DECK FOR,0,neutral,todo.webp,"Inflict suspicion for every time you've played this card this game."
-1,CARD THAT IS GENERIC,0,neutral,todo.webp,"Copy the effect of a card in your play area."
-2,KIDNAP,0,starting_mothman,todo.webp,"Expel this card, gain a town card."
+1,CARD WHAT GENERALLY GOOD,0,neutral,todo.webp,Gain 2 Fear.
+1,CARD WHAT CAN BUILD DECK FOR,0,neutral,todo.webp,Inflict suspicion for every time you've played this card this game.
+1,CARD THAT IS GENERIC,0,neutral,todo.webp,Copy the effect of a card in your play area.
+1,KIDNAP,0,starting_mothman,todo.webp,"Expel this card, gain a town card."
 1,ITS BACK BABY,0,mothman,todo.webp,"Pick two cards in the graveyard, shuffle them back into the main deck."
-1,LETS GO GAMBLING,0,mothman,todo.webp,"Reveal the top card of the main deck, activate its ability, reshuffle it into the deck."
+1,LETS GO GAMBLING,0,mothman,todo.webp,"Reveal a random main deck card, copy its effect, reshuffle the main deck."
+1,NOT GONE LOL,0,mothman,todo.webp,"Reveal a random graveyard card, copy its effect."
+1,MAGIC MISSILE,0,loveland,todo.webp,"Roll the Die. If 3 or more, inflict 4 suspicion. Otherwise, self-inflict 2 suspicion."
+1,SLAVES FOR CHEAP,0,flatwoods,todo.webp,Gain a Drone.
