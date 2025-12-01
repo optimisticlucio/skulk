@@ -1,17 +1,17 @@
 count,name,cost,alliance,img,description
-15,DRONE,,flatwoods_drone,todo.webp,Draw a card.
-1,SLAVES FOR CHEAP,,flatwoods_start,todo.webp,Gain a Drone.
-5,FEAR START CARD,,flatwoods_start,todo.webp,Gain 1 Fear.
-1,SUSPICION START CARD,,flatwoods_start,todo.webp,Inflict 1 Suspicion.
+15,DRONE,,flatwoods,todo.webp,Draw a card.
+1,SLAVES FOR CHEAP,,flatwoods,todo.webp,Gain a Drone.
+5,FEAR START CARD,,flatwoods,todo.webp,Gain 1 Fear.
+1,SUSPICION START CARD,,flatwoods,todo.webp,Inflict 1 Suspicion.
 2,NUH-UH DON'T COUNT,2,loveland,todo.webp,"Play this card after a die roll, before the effect happens. Add +1 to the roll value."
 4,I AM A GREAT AND POWERFUL WIZARD,2,loveland,todo.webp,"Roll the die. If 5 or more, gain 6 Fear. Otherwise, that sucks."
 3,GO FOR A 6 PUSSY,3,loveland,todo.webp,"Name a number, roll the die. If you roll lower, self-inflict that number of suspicion. Otherwise, inflict it."
 3,MAGIC MISSILE,4,loveland,todo.webp,"Roll the Die. If 3 or more, inflict 4 suspicion. Otherwise, self-inflict 3 suspicion."
 3,MAKING EXCITEMENT MORE EXCITING,6,loveland,todo.webp,Roll the die until the sum of the rolls is higher than the current suspicion meter. Draw a card for each roll you did.
-5,FEAR START CARD,,loveland_start,todo.webp,Gain 1 Fear.
-1,SUSPICION START CARD,,loveland_start,todo.webp,Inflict 1 Suspicion.
-1,THAT ROLL SUCKED,,loveland_start,todo.webp,"If you used an effect to roll the die this turn, copy that effect."
-1,I REALLY NEED THIS.,,loveland_start,todo.webp,"Roll the die. Gain Fear equal to half the roll's value, rounded down."
+5,FEAR START CARD,,loveland,todo.webp,Gain 1 Fear.
+1,SUSPICION START CARD,,loveland,todo.webp,Inflict 1 Suspicion.
+1,THAT ROLL SUCKED,,loveland,todo.webp,"If you used an effect to roll the die this turn, copy that effect."
+1,I REALLY NEED THIS.,,loveland,todo.webp,"Roll the die. Gain Fear equal to half the roll's value, rounded down."
 2,LETS GO GAMBLING,2,mothman,todo.webp,"Reveal a random main deck card, copy its effect, reshuffle the main deck."
 3,CARD FOR EARLY GAME,2,mothman,todo.webp,Gain a card that costs 4 or less.
 2,POKER HAND TIME,2,mothman,todo.webp,"If 4+ cards in the town have the same cost, reshuffle them into the main deck, and inflict suspicion equal to the amount of cards."
@@ -19,10 +19,10 @@ count,name,cost,alliance,img,description
 2,ITS BACK BABY,3,mothman,todo.webp,"Pick a graveyard card, place it at the top of the main deck."
 2,FOLLOW THE LIGHT,4,mothman,todo.webp,"When gained, expel this card, and gain the top 3 cards of the main deck."
 1,BLINDING LIGHT,4,mothman,todo.webp,"X is 1. Expel a town card that costs X and inflict X suspicion. You may repeat this card's effect, adding 1 to X, as much as you can."
-1,KIDNAP,,mothman_start,todo.webp,"Erase this card, gain a town card."
-5,FEAR START CARD,,mothman_start,todo.webp,Gain 1 Fear.
-1,SUSPICION START CARD,,mothman_start,todo.webp,Inflict 1 Suspicion.
-1,GET FLUSHED BITCH,,mothman_start,get_a_flush.png,"If 3 town cards have the same cost, and 2 others have a different cost, inflict 6 suspicion and reshuffle the town. Else, expel a town card."
+1,KIDNAP,,mothman,todo.webp,"Erase this card, gain a town card."
+5,FEAR START CARD,,mothman,todo.webp,Gain 1 Fear.
+1,SUSPICION START CARD,,mothman,todo.webp,Inflict 1 Suspicion.
+1,GET FLUSHED BITCH,,mothman,get_a_flush.png,"If 3 town cards have the same cost, and 2 others have a different cost, inflict 6 suspicion and reshuffle the town. Else, expel a town card."
 4,I MEAN SURE WHY NOT,1,neutral,todo.webp,"Draw two cards, discard two cards."
 4,GOD'S MOST PATHETIC CRIPPLE,1,neutral,todo.webp,"Gain 1 Fear. If expelled, inflict 3 suspicion."
 3,A CARD FOR TRUE THINKERS,2,neutral,todo.webp,"Look at the top card of your deck, you may discard it. Draw a card."
@@ -50,5 +50,5 @@ count,name,cost,alliance,img,description
 3,"ERASE, REPLACE",3,wendigo,todo.webp,"Copy the effect of a card in your play area, then erase it."
 4,SMELLING BLOOD,3,wendigo,todo.webp,Inflict 2 Suspicion. Erase a card in your hand to inflict 1 more.
 2,GRAVEROBBING,5,wendigo,todo.webp,Gain 2 Fear. This turn you may buy a card from the graveyard.
-5,FEAR START CARD,,wendigo_start,todo.webp,Gain 1 Fear.
-1,SUSPICION START CARD,,wendigo_start,todo.webp,Inflict 1 Suspicion.
+5,FEAR START CARD,,wendigo,todo.webp,Gain 1 Fear.
+1,SUSPICION START CARD,,wendigo,todo.webp,Inflict 1 Suspicion.
