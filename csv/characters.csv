@@ -1,5 +1,5 @@
 name,image,modifier,ability-cost,ability
-Wendigo,wendigo.png,TODO,3,Erase a card in your hand to gain 3 fear or draw two cards.
+Wendigo,wendigo.png,TODO,3,"If a card is erased during anyone's turn, use this to gain it instead."
 Mothman,mothman.png,TODO,1,Erase two town cards.
 Flatwoods Monster,flatwoods.png,"At the start of the game, shuffle the drone deck and place it face-down near the shop. Once per turn, either player can gain a drone, at the cost of 1 suspicion.",2,Erase two drones in your hand to gain a shop card for free.
 Loveland Frog,loveland.png,"At the start of the game, take your Magic Die and place it in a convenient location.",2,"Roll the die. If it lands on 2-4, get that amount of Fear. 5-6, draw two cards. 1 - self-inflict 2 Suspicion."
