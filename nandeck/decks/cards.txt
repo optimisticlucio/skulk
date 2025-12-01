@@ -3,7 +3,7 @@ LINKMULTI=count
 LINK=..\..\csv\cards.csv
 
 ;Card Art
-IMAGE=,"../../img/[img]",0%,{-79/120}%,100%,{3031/30}%
+IMAGE=,"../../img/[img]",0%,0%,100%,100%,0,C
 
 ;Do not show cost if cost is null
 IF=[COST]<>""
@@ -20,9 +20,7 @@ RECTANGLE=,10%,75%,80%,25%,#808080#A9A9A9#808080@0
 ;Card Description Font
 FONT=Arial,7,T,#000000
 ;Card Description(size)
-TEXT="1-{(DESCRIPTION)}",[DESCRIPTION],14%,80%,70%,20%,CENTER,WWCENTER
-
-
+TEXT="1-{(DESCRIPTION)}",[DESCRIPTION],15%,80%,70%,17.5%,CENTER,WWCENTER
 
 ;Card Name Background
 RECTANGLE=,5%,65%,90%,15%,#A9A9A9
@@ -32,11 +30,11 @@ FONT=Arial,12,TB,#000000
 TEXT="1-{(NAME)}",[NAME],8%,64%,84%,15%,CENTER,WWCENTER
 
 ;Card Icon Selection
-ICON="1-{{ALLIANCE}}",mothman,"../../img/icon/mothman.png"
-ICON="1-{{ALLIANCE}}",loveland,"../../img/icon/loveland.png"
-ICON="1-{{ALLIANCE}}",wendigo,"../../img/icon/wendigo.png"
-ICON="1-{{ALLIANCE}}",flatwood,"../../img/icon/flatwood.png"
+ICON=,mothman,"../../img/icon/mothman.png"
+ICON=,loveland,"../../img/icon/loveland.png"
+ICON=,wendigo,"../../img/icon/wendigo.png"
+ICON=,flatwood,"../../img/icon/flatwood.png"
 
-ICONS="1-{{ALLIANCE}}",[ALLIANCE],80%,45%,10%,10%,10%,10%
+ICONS=,[ALLIANCE],47.5%,95%,5%,5%,5%,5%,0,PX
 
 DISPLAY="..\export\deck{§}.png",,,10x7
