@@ -20,7 +20,7 @@ count,name,cost,alliance,img,description
 2,FOLLOW THE LIGHT,4,mothman,todo.webp,"When gained, expel this card, and gain the top 3 cards of the main deck."
 1,BLINDING LIGHT,4,mothman,todo.webp,"X is 1. Expel a town card that costs X and inflict X suspicion. You may repeat this card's effect, adding 1 to X, as much as you can."
 5,EYES IN THE DARK,,mothman,yossi_eyes.png,Gain 1 Fear.
-1,TRICK OF THE LIGHT,,mothman,todo.webp,Inflict 1 Suspicion.
+1,TRICK OF THE LIGHT,,mothman,trick_of_the_light.jpg,Inflict 1 Suspicion.
 1,LIGHT HOUSE,,mothman,get_a_flush.png,"If 3 town cards have the same cost, and 2 others have a different cost, inflict 5 suspicion and reshuffle the town. Else, expel a town card."
 4,I MEAN SURE WHY NOT,1,neutral,todo.webp,"Draw two cards, discard two cards."
 4,GOD'S MOST PATHETIC CRIPPLE,1,neutral,todo.webp,"Gain 1 Fear. If expelled, inflict 3 suspicion."
@@ -32,7 +32,7 @@ count,name,cost,alliance,img,description
 2,CARD WHAT CAN BUILD DECK FOR,3,neutral,todo.webp,Inflict suspicion for every time you've played this card this game.
 3,ARE YOU SURE ABOUT THIS,3,neutral,todo.webp,Gain 3 Fear and self-inflict 2 Suspicion.
 4,DANCE IT ROUND,3,neutral,todo.webp,"Draw 2 cards, discard a card."
-4,GROWING UNREST,4,neutral,todo.webp,Draw two cards.
+4,GROWING UNREST,4,neutral,growing_unrest.jpg,Draw two cards.
 3,HERD MENTALITY,4,neutral,faceless_mob.jpg,Copy the effect of a card in your play area.
 4,POISON THE WATER SUPPLY,4,neutral,todo.webp,Inflict 2 Suspicion.
 1,PITCHFORKS AND TORCHES,5,neutral,simpsons_pitchforks.jpg,"For every two cards you've played this turn, inflict suspicion."
