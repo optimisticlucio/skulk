@@ -4,22 +4,22 @@ count,name,cost,alliance,img,description
 5,FEAR START CARD,,flatwoods,todo.webp,Gain 1 Fear.
 1,SUSPICION START CARD,,flatwoods,todo.webp,Inflict 1 Suspicion.
 2,POWER WORD: STRENGTH,2,loveland,todo.webp,"Play this card after a die roll, before the effect happens. Add +1 to the roll value."
-4,THE GREAT AND POWERFUL,2,loveland,casting_couch.png,"Roll the die. If 5 or more, gain 6 Fear. Otherwise, that sucks."
-3,POWER WORD: CURSE,3,loveland,ponder_my_cube.png,"Name a number, roll the die. If you roll lower, self-inflict that number of suspicion. Otherwise, inflict it."
-3,POWER WORD: MISSILE,4,loveland,todo.webp,"Roll the Die. If 3 or more, inflict 4 suspicion. Otherwise, self-inflict 3 suspicion."
+4,THE GREAT AND POWERFUL,2,loveland,hellboy_rasputin.jpg,"Roll the die. If 5 or more, gain 6 Fear. Otherwise, that sucks."
+3,POWER WORD: CURSE,3,loveland,shadow_word_pain.jpg,"Name a number, roll the die. If you roll lower, self-inflict that number of suspicion. Otherwise, inflict it."
+3,POWER WORD: MISSILE,4,loveland,casting_couch.png,"Roll the Die. If 3 or more, inflict 4 suspicion. Otherwise, self-inflict 3 suspicion."
 3,INCESSANT CHANTING,6,loveland,todo.webp,Roll the die until the sum of the rolls is higher than the current suspicion meter. Draw a card for each roll you did.
-5,ARCANE WHISPERS,,loveland,todo.webp,Gain 1 Fear.
+5,ARCANE WHISPERS,,loveland,ponder_my_cube.png,Gain 1 Fear.
 1,HALLUCINATIONS,,loveland,todo.webp,Inflict 1 Suspicion.
 1,LOVELAND ALWAYS WINS,,loveland,todo.webp,"If you used an effect to roll the die this turn, copy that effect."
 1,TOIL AND TROUBLE,,loveland,todo.webp,"Roll the die. Gain Fear equal to half the roll's value, rounded down."
 2,LETS GO GAMBLING,2,mothman,todo.webp,"Reveal a random main deck card, copy its effect, reshuffle the main deck."
-3,A TERRIBLE OMEN,2,mothman,todo.webp,Gain a card that costs 4 or less.
+3,A TERRIBLE OMEN,2,mothman,hellboy_hung.jpg,Gain a card that costs 4 or less.
 2,POKER HAND TIME,2,mothman,todo.webp,"If 4+ cards in the town have the same cost, reshuffle them into the main deck, and inflict suspicion equal to the amount of cards."
 3,NOT GONE LOL,2,mothman,todo.webp,"Reveal a random graveyard card, copy its effect."
 2,ITS BACK BABY,3,mothman,todo.webp,"Pick a graveyard card, place it at the top of the main deck."
 2,FOLLOW THE LIGHT,4,mothman,todo.webp,"When gained, expel this card, and gain the top 3 cards of the main deck."
 1,BLINDING LIGHT,4,mothman,todo.webp,"X is 1. Expel a town card that costs X and inflict X suspicion. You may repeat this card's effect, adding 1 to X, as much as you can."
-5,EYES IN THE DARK,,mothman,todo.webp,Gain 1 Fear.
+5,EYES IN THE DARK,,mothman,yossi_eyes.png,Gain 1 Fear.
 1,TRICK OF THE LIGHT,,mothman,todo.webp,Inflict 1 Suspicion.
 1,LIGHT HOUSE,,mothman,get_a_flush.png,"If 3 town cards have the same cost, and 2 others have a different cost, inflict 5 suspicion and reshuffle the town. Else, expel a town card."
 4,I MEAN SURE WHY NOT,1,neutral,todo.webp,"Draw two cards, discard two cards."
@@ -28,19 +28,19 @@ count,name,cost,alliance,img,description
 2,LET'S RUN THROUGH THESE,2,neutral,todo.webp,Draw a card. Expel a card in your hand to draw another.
 3,SAVAGES! BARELY EVEN HUMAN!,2,neutral,todo.webp,"Inflict 1 Suspicion. If you already inflicted this turn, inflict 2 more. "
 2,CARD WHAT HELP YOU BOTH,3,neutral,todo.webp,"Draw two cards, your opponent draws a card."
-6,DOOMSAYER,3,neutral,todo.webp,Gain 2 Fear.
+6,DOOMSAYER,3,neutral,homer_doomsayer.jpg,Gain 2 Fear.
 2,CARD WHAT CAN BUILD DECK FOR,3,neutral,todo.webp,Inflict suspicion for every time you've played this card this game.
 3,ARE YOU SURE ABOUT THIS,3,neutral,todo.webp,Gain 3 Fear and self-inflict 2 Suspicion.
 4,DANCE IT ROUND,3,neutral,todo.webp,"Draw 2 cards, discard a card."
 4,GROWING UNREST,4,neutral,todo.webp,Draw two cards.
-3,HERD MENTALITY,4,neutral,todo.webp,Copy the effect of a card in your play area.
+3,HERD MENTALITY,4,neutral,faceless_mob.jpg,Copy the effect of a card in your play area.
 4,POISON THE WATER SUPPLY,4,neutral,todo.webp,Inflict 2 Suspicion.
-1,PITCHFORKS AND TORCHES,5,neutral,todo.webp,"For every two cards you've played this turn, inflict suspicion."
-2,DESPERATION,5,neutral,todo.webp,Expel this card and all cards in your play area. Inflict 1 suspicion for each card expelled.
+1,PITCHFORKS AND TORCHES,5,neutral,simpsons_pitchforks.jpg,"For every two cards you've played this turn, inflict suspicion."
+2,DESPERATION,5,neutral,box_zombie.webp,Expel this card and all cards in your play area. Inflict 1 suspicion for each card expelled.
 2,LET'S GET THIS OVER WITH,6,neutral,todo.webp,Inflict 3 Suspicion. You may erase up to 2 cards in your discard pile. Inflict 1 suspicion for each.
 1,CARD WHAT MORE DRAWS,7,neutral,todo.webp,Draw three cards.
 1,BIG MONEY,7,neutral,todo.webp,"Gain a card for free, place it at the top of your deck."
-1,HYSTERIA,8,neutral,todo.webp,Inflict 4 suspicion.
+1,HYSTERIA,8,neutral,dd_affliction.webp,Inflict 4 suspicion.
 2,"I WAS BORN IN THE FEAR, MOLDED BY IT.",5,neutral,todo.webp,"If the suspicion meter is aimed at you, gain 1 Fear for each suspicion you have. Else, inflict 2 suspicion."
 4,INSATIABLE HUNGER,1,wendigo,todo.webp,Gain 1 Fear. You may expel a card from your hand to gain 1 Fear.
 2,DEAD WEIGHT,2,wendigo,todo.webp,"When gained, place in opponent's discard pile. Does nothing."
