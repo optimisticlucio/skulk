@@ -40,9 +40,9 @@ ICON=,flatwood,"../../img/icon/flatwood.png"
 [ICON_WRAPPER_SIZE] = [ICON_SIZE] + 0.3
 [ICON_WRAPPER_X] = ((INFO(W) - [ICON_WRAPPER_SIZE]) / 2)
 
-IF=[ALLIANCE]<>""
-;Icon Background
+IF=[ALLIANCE]<>"neutral"
 
+;Icon Background
 IMAGE=,"../../img/layout/icon_space.png",[ICON_X],89%,[ICON_WRAPPER_SIZE],[ICON_WRAPPER_SIZE],0,N
 
 ICONS=,[ALLIANCE],[ICON_WRAPPER_X],91%,[ICON_SIZE],[ICON_SIZE],[ICON_SIZE],[ICON_SIZE],0,PX
