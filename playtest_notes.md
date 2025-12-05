@@ -8,11 +8,28 @@ It'll be written in reverse chronological order so the newest is higher up, maki
 
 ## Long-Term Notes
 
+- [5.12] Conversely, if a card makes you hesitate whenever you play it, *even* in situations where it's technically the good play, redesign it. Cards shouldn't suck to play optimally.
 - [2.12] If a card elicits the "why wouldn't I ever get this" reaction, redesign it. Even if it's good, it shouldn't be blindingly good and fit for every situation.
 
 ---
 
 ## Playtest Notes
+
+### Dec 5th, Game 3
+
+Players: Viivo (Wendigo), Darth (Frogman)
+
+#### Notes
+
+- [ ] Clarify Wendigo Effect checks value *before* erasing.
+- [X] Clarify "Fear the Other" doesn't let you **buy** cards.
+- [X] Fear the Other is *depressing* to play, or atleast it's depressing darth. Maybe don't lower players' choices!
+- [X] Weaken God's Most Pathetic Cripple
+- [ ] "GIVE WENDIGO GRAVEYARD GAMBLING"
+
+#### Ideas
+
+- [ ] Take "Planting Evidence" out of the wendigo deck and add another aftertaste.
 
 ### Dec 5th, Game 2
 
