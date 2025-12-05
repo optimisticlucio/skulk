@@ -1,5 +1,5 @@
 name,image,modifier,ability-cost,ability
 Wendigo,wendigo.png,TODO,1,"Gain 1 Fear. If there's at least 5 cards in the graveyard, gain another fear. If 10 cards, also draw a card. If 15, inflict 1 suspicion. If 20, double this effect. "
-Mothman,mothman.png,TODO,2,"Pick a number. Gain 1 Fear for every town card with that cost, and shuffle those cards into the main deck."
+Mothman,mothman.png,TODO,2,Copy the effect of a town card whose cost is 3 or less. 
 Flatwoods Monster,flatwoods.png,"At the start of the game, shuffle the drone deck and place it face-down near the shop. Once per turn, either player can gain a drone, at the cost of 1 suspicion.",3,"Erase every drone in your hand. For each erased, choose: draw two cards, gain 3 fear, or inflict 2 suspicion."
-Loveland Frogman,loveland.png,"At the start of the game, take your Magic Die and place it in a convenient location.",2,"Roll the die. If it lands on 1-3, get that amount of Fear. 4-5, draw two cards. 6 - self-inflict 2 Suspicion."
+Loveland Frogman,loveland.png,"At the start of the game, take your Magic Die and place it in a convenient location.",3,"Roll the die. If it lands on 1-3, get that amount of Fear. 4-5, draw two cards. 6 - self-inflict 2 Suspicion."

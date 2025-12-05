@@ -14,7 +14,20 @@ It'll be written in reverse chronological order so the newest is higher up, maki
 
 ## Playtest Notes
 
+Players: Skyber (Mothman), Lucio (Frogman)
+
+#### Notes
+
+- [X] Make Open Warfare a little worse.
+- [X] Add "May" to "Let's Run Through These"
+- [X] Make Frog's Dice Rolling More Expensive
+- [X] Make moth's effect copy the center deck
+- [X] Change "loveland always wins" to only copy cards
+- [X] Lower "Light House" Cost to 2
+
 ### Dec 2nd
+
+Players: Skyber (Frogman), Lucio (Mothman)
 
 #### Notes
 

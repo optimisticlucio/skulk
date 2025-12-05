@@ -10,36 +10,34 @@ count,name,cost,alliance,img,description
 3,INCESSANT CHANTING,6,loveland,todo.webp,Roll the die until the sum of the rolls is higher than the current suspicion meter. Draw a card for each roll you did.
 5,ARCANE WHISPERS,,loveland,ponder_my_cube.png,Gain 1 Fear.
 1,HALLUCINATIONS,,loveland,todo.webp,Inflict 1 Suspicion.
-1,LOVELAND ALWAYS WINS,,loveland,todo.webp,"If you used an effect to roll the die this turn, copy that effect."
-1,TOIL AND TROUBLE,,loveland,todo.webp,"Roll the die. Gain Fear equal to half the roll's value, rounded down."
+1,LOVELAND ALWAYS WINS,,loveland,todo.webp,"If you used a card to roll the die this turn, copy its effect."
+1,TOIL AND TROUBLE,,loveland,toil_and_trouble_sketch.png,"Roll the die. Gain Fear equal to half the roll's value, rounded down."
 2,LETS GO GAMBLING,2,mothman,todo.webp,"Reveal a random main deck card, copy its effect, reshuffle the main deck."
 3,A TERRIBLE OMEN,2,mothman,hellboy_hung.jpg,Gain a card that costs 4 or less.
 2,POKER HAND TIME,2,mothman,todo.webp,"If 4+ cards in the town have the same cost, reshuffle them into the main deck, and inflict suspicion equal to the amount of cards."
 3,NOT GONE LOL,2,mothman,todo.webp,"Reveal a random graveyard card, copy its effect."
-2,LIGHT HOUSE,3,mothman,get_a_flush.png,"If 3 town cards have the same cost, and 2 others have a different cost, inflict 5 suspicion and reshuffle the town. Else, erase a town card."
+2,LIGHT HOUSE,2,mothman,get_a_flush.png,"If 3 town cards have the same cost, and 2 others have a different cost, inflict 5 suspicion and reshuffle the town. Else, erase a town card."
 2,FOLLOW THE LIGHT,4,mothman,todo.webp,"When gained, erase this card, and gain the top 3 cards of the main deck."
 1,BLINDING LIGHT,4,mothman,todo.webp,"X is 1. Erase a town card that costs X and inflict X suspicion. You may repeat this card's effect, adding 1 to X, as much as you can."
 1,ITS BACK BABY,,mothman,todo.webp,"Pick a graveyard card, copy its effect, shuffle it into the main deck."
 5,EYES IN THE DARK,,mothman,eyes_in_the_dark.png,Gain 1 Fear.
 1,TRICK OF THE LIGHT,,mothman,trick_of_the_light.jpg,Inflict 1 Suspicion.
-1,SCOUT PREY,,mothman,todo.webp,Copy the effect of a town card whose cost is 3 or less.
+1,SCOUT PREY,,mothman,todo.webp,"Pick a number. Gain 1 Fear for every town card with that cost, and shuffle those cards into the main deck."
 3,LEARN AND GROW,1,neutral,todo.webp,Gain 1 Fear. You may erase a card from your hand to gain 1 Fear.
 4,I MEAN SURE WHY NOT,1,neutral,todo.webp,"Draw two cards, discard two cards."
 4,GOD'S MOST PATHETIC CRIPPLE,1,neutral,todo.webp,"Gain 1 Fear. If erased, inflict 3 suspicion."
 2,JOLT OF ENERGY,1,neutral,todo.webp,"Erase this card, draw two cards."
 3,PATIENCE,2,neutral,todo.webp,"Look at the top card of your deck, you may discard it. Draw a card."
-3,LET'S RUN THROUGH THESE,2,neutral,todo.webp,Draw a card. Erase a card in your hand to draw another.
+3,LET'S RUN THROUGH THESE,2,neutral,todo.webp,"Draw a card, erase a card in your hand."
 3,CONFIRMATION BIAS,2,neutral,todo.webp,"Inflict 1 Suspicion. If you already inflicted this turn, inflict 2 more. "
 2,CARD WHAT HELP YOU BOTH,3,neutral,todo.webp,"Draw two cards, your opponent draws a card."
 6,DOOMSAYER,3,neutral,homer_doomsayer.jpg,Gain 2 Fear.
 2,CARD WHAT CAN BUILD DECK FOR,3,neutral,todo.webp,Inflict suspicion for every time you've played this card this game.
-3,OPEN WARFARE,3,neutral,league_of_gentlemen_mary_poppins.jpg,Gain 3 Fear and self-inflict 2 Suspicion.
+3,OPEN WARFARE,3,neutral,league_of_gentlemen_mary_poppins.jpg,Gain 3 Fear and self-inflict 3 Suspicion.
 3,HERD MENTALITY,4,neutral,faceless_mob.jpg,Copy the effect of a card in your play area.
 5,POISON THE WATER SUPPLY,4,neutral,todo.webp,Inflict 2 Suspicion.
 3,FEAR THE OTHER,4,neutral,todo.webp,Draw 3 cards. You cannot gain cards this turn.
-5,GROWING UNREST,5,neutral,growing_unrest.jpg,Draw two cards.
 1,PITCHFORKS AND TORCHES,5,neutral,simpsons_pitchforks.jpg,"For every two cards you've played this turn, inflict suspicion."
-2,DESPERATION,5,neutral,box_zombie.webp,Erase this card and all cards in your play area. Inflict 1 suspicion for each card erased.
 2,REVEL IN INFAMY,5,neutral,todo.webp,"If the suspicion meter is aimed at you, gain fear equal to the meter's value. Else, inflict 2 suspicion."
 2,LET'S GET THIS OVER WITH,6,neutral,todo.webp,Inflict 3 Suspicion. You may erase up to 2 cards in your discard pile. Inflict 1 suspicion for each.
 1,AS IT WAS WRITTEN,6,neutral,todo.webp,Inflict 2 suspicion. Place a card from your discard pile in your hand.

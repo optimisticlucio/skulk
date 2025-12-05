@@ -15,7 +15,7 @@ A 2-player deckbuilder where at the start of the game, each player picks a chara
 - **Wendigo**: A monster of hunger. Partially frosted to death, now trying to satiate itself without raising too much suspicion.
 - **Flatwoods Monster**: Creature from another world, trying to amass a hive to follow its bidding.
 - **Mothman**: Follows the light. Kidnaps in the dark.
-- **Loveland Frog**: Large amphibian in-tune with the arcane arts.
+- **Loveland Frogman**: Large amphibian in-tune with the arcane arts.
 
 ## Setup
 
@@ -32,16 +32,16 @@ Each player, in turn, takes their turn:
 
 - During their turn they may play cards from their hand to their Play Area to act on whatever the card says in its card description, or purchase cards from the town if they have enough Fear, or use their character-specific ability, or end their turn.
 - To purchase a card a player must first have enough Fear, which is gained through specific cards in your deck. If you have more Fear than a given card's cost, you place the chosen card in your discard pile, replace the removed card with the top card of the Main Deck, and reduce your current Fear by the card's cost.
-- Each character has a unique ability listed on their character card. Each time this ability is used they inflict Suspicion on themselves, so act carefully!
+- Once per turn, they may use the unqiue ability listed on their card. Each time this ability is used they inflict Suspicion on themselves, so act carefully!
 - If a player chooses to end their turn, they must discard their hand and play area into the discard pile, which is face-up and can be browsed by all players. Their Fear is set to 0. Afterwards, they draw 5 cards from their deck, and the other player begins their turn.
 - If a player needs to draw a card from their deck, but their deck has no cards in it, shuffle the player's discard pile, place it face-down, and use it as their new deck.
 
-If a player reaches more than 14 suspicion at any point, they lose.
+If a player reaches more than 9 suspicion at any point, they lose.
 
 If there's conflict between the rules and the card effects, follow the card effects' description.
 
 ## Keywords
 
 - **Erase:** Move a card to the Graveyard, a pile of cards near the main deck which is visible to all players. Cards in the Graveyard will (likely) not return to this match.
-- **Discard:** Place a card into your discard pile. 
+- **Discard:** Place a card into your discard pile.
 - **Inflict [x] Suspicion:** Move the Suspicion marker [x] spaces away from you/towards your opponent.
