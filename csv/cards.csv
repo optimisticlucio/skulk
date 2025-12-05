@@ -19,7 +19,7 @@ count,name,cost,alliance,img,description
 2,ITS BACK BABY,3,mothman,todo.webp,"Pick a graveyard card, place it at the top of the main deck."
 2,FOLLOW THE LIGHT,4,mothman,todo.webp,"When gained, expel this card, and gain the top 3 cards of the main deck."
 1,BLINDING LIGHT,4,mothman,todo.webp,"X is 1. Expel a town card that costs X and inflict X suspicion. You may repeat this card's effect, adding 1 to X, as much as you can."
-5,EYES IN THE DARK,,mothman,yossi_eyes.png,Gain 1 Fear.
+5,EYES IN THE DARK,,mothman,eyes_in_the_dark.png,Gain 1 Fear.
 1,TRICK OF THE LIGHT,,mothman,trick_of_the_light.jpg,Inflict 1 Suspicion.
 1,LIGHT HOUSE,,mothman,get_a_flush.png,"If 3 town cards have the same cost, and 2 others have a different cost, inflict 5 suspicion and reshuffle the town. Else, expel a town card."
 4,I MEAN SURE WHY NOT,1,neutral,todo.webp,"Draw two cards, discard two cards."

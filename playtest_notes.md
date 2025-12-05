@@ -1,0 +1,34 @@
+# PLAYTEST NOTES
+
+Here's where we'll write down the notes from every playtest so we can see it advance and such, which is cute. At the top we'll write down any long-term conclusions we get from given playtests.
+
+It'll be written in reverse chronological order so the newest is higher up, making it easier to scroll through.
+
+---
+
+## Long-Term Notes
+
+- [2.12] If a card elicits the "why wouldn't I ever get this" reaction, redesign it. Even if it's good, it shouldn't be blindingly good and fit for every situation.
+
+---
+
+## Playtest Notes
+
+### Dec 2nd
+
+### Notes
+
+- [ ] Kidnap is too good, nuke it from orbit.
+- [ ] Make flush harder or less punishing
+- [ ] Keep deck Alive is underwhelming
+- [ ] Mothman ability underwhelming
+- [ ] Cantrip is good but underwhelming
+- [ ] Clarify "nuh uh" with "to **ANY** roll"
+- [ ] Strengthen mothman
+
+### Ideas
+
+- [ ] Move "Get a flush bitch" to main deck? (Replace with "its back baby")
+- [ ] Improve frog ability as play proceeds.
+- [ ] More expel in main deck?
+- [ ] Make mothman's ability tied to the store and fun
