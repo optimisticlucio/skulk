@@ -16,7 +16,7 @@ It'll be written in reverse chronological order so the newest is higher up, maki
 
 ### Dec 2nd
 
-### Notes
+#### Notes
 
 - [ ] Kidnap is too good, nuke it from orbit.
 - [ ] Make flush harder or less punishing
@@ -26,7 +26,7 @@ It'll be written in reverse chronological order so the newest is higher up, maki
 - [ ] Clarify "nuh uh" with "to **ANY** roll"
 - [ ] Strengthen mothman
 
-### Ideas
+#### Ideas
 
 - [ ] Move "Get a flush bitch" to main deck? (Replace with "its back baby")
 - [ ] Improve frog ability as play proceeds.
