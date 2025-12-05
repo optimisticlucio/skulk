@@ -14,6 +14,32 @@ It'll be written in reverse chronological order so the newest is higher up, maki
 
 ## Playtest Notes
 
+### Dec 5th, Game 2
+
+Players: Viivo (Wendigo), Darth (Frogman)
+
+#### Notes
+
+They really enjoyed playing it!
+
+- [ ] Clarify Wendigo Effect Wording
+- [ ] MAKE THE GODDAMN CHARACTER CARDS
+- [ ] "Fear" and "Suspicion" are a little similar and lead to confusion?
+- [ ] Wendigo ability snowballs slowly
+- [ ] Specify Power Word Curse to "Inflict the Named Number"
+- [ ] "Graverobber and Winter Chill feel REALLY counterproductive to the wendigo's goal"
+- [ ] They really liked getting a LOT of identical starting cards
+- [ ] "Anything that self-inflicts suspicion I was very averse to, anything that inflicts more than one suspicion I felt was too powerful."
+- [ ] Re: Smelling blood, rated as meh: "At that point, with how decent a lot of these cards are, I didn't want to get rid of any of them."
+- [ ] "Give me more aftertaste, or give me more cards like aftertaste"
+- [ ] "I liked confirmation bias because it was cheap and made me feel like I needed more cards to work with it"
+
+#### Ideas
+
+- [ ] Add a card that lets you reuse your ability
+
+### Dec 5th, Game 1
+
 Players: Skyber (Mothman), Lucio (Frogman)
 
 #### Notes
