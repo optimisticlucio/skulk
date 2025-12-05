@@ -18,17 +18,17 @@ It'll be written in reverse chronological order so the newest is higher up, maki
 
 #### Notes
 
-- [ ] Kidnap is too good, nuke it from orbit.
-- [ ] Make flush harder or less punishing
-- [ ] Keep deck Alive is underwhelming
-- [ ] Mothman ability underwhelming
-- [ ] Cantrip is good but underwhelming
-- [ ] Clarify "nuh uh" with "to **ANY** roll"
-- [ ] Strengthen mothman
+- [X] Kidnap is too good, nuke it from orbit.
+- [X] Make flush harder or less punishing
+- [X] Keep deck Alive is underwhelming
+- [X] Mothman ability underwhelming
+- [X] Cantrip is good but underwhelming
+- [X] Clarify "nuh uh" with "to **ANY** roll"
+- [X] Strengthen mothman
 
 #### Ideas
 
-- [ ] Move "Get a flush bitch" to main deck? (Replace with "its back baby")
+- [X] Move "Get a flush bitch" to main deck? (Replace with "its back baby")
 - [ ] Improve frog ability as play proceeds.
-- [ ] More expel in main deck?
-- [ ] Make mothman's ability tied to the store and fun
+- [X] More expel in main deck?
+- [X] Make mothman's ability tied to the store and fun
