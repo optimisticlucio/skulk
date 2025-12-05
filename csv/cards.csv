@@ -25,7 +25,7 @@ count,name,cost,alliance,img,description
 1,SCOUT PREY,,mothman,todo.webp,"Pick a number. Gain 1 Fear for every town card with that cost, and shuffle those cards into the main deck."
 3,LEARN AND GROW,1,neutral,todo.webp,Gain 1 Fear. You may erase a card from your hand to gain 1 Fear.
 4,I MEAN SURE WHY NOT,1,neutral,todo.webp,"Draw two cards, discard two cards."
-4,GOD'S MOST PATHETIC CRIPPLE,1,neutral,todo.webp,"Gain 1 Fear. If erased, draw 2 cards."
+4,GOD'S MOST PATHETIC CRIPPLE,1,neutral,todo.webp,"Gain 1 Fear. If erased, inflict 2 suspicion."
 2,JOLT OF ENERGY,1,neutral,todo.webp,"Erase this card, draw two cards."
 3,PATIENCE,2,neutral,todo.webp,"Look at the top card of your deck, you may discard it. Draw a card."
 3,LET'S RUN THROUGH THESE,2,neutral,todo.webp,"Draw a card, erase a card in your hand."
