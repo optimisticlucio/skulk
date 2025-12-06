@@ -20,7 +20,7 @@ count,name,cost,alliance,img,description
 2,FOLLOW THE LIGHT,4,mothman,todo.webp,"When gained, bury this card, and gain the top 3 cards of the main deck."
 1,BLINDING LIGHT,4,mothman,todo.webp,"X is 1. Bury a town card that costs X and inflict X suspicion. You may repeat this card's effect, adding 1 to X, as much as you can."
 1,ITS BACK BABY,,mothman,todo.webp,"Pick a graveyard card, copy its effect, shuffle it into the main deck."
-5,EYES IN THE DARK,,mothman,eyes_in_the_dark.png,Gain 1 Fear.
+5,EYES IN THE DARK,,mothman,eyes_in_the_dark_v2.png,Gain 1 Fear.
 1,TRICK OF THE LIGHT,,mothman,trick_of_the_light.jpg,Inflict 1 Suspicion.
 1,SCOUT PREY,,mothman,todo.webp,"Pick a number. Gain 1 Fear for every town card with that cost, and shuffle those cards into the main deck."
 3,LEARN AND GROW,1,neutral,todo.webp,Gain 1 Fear. You may bury a card from your hand to gain 1 Fear.
