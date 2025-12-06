@@ -11,7 +11,7 @@ count,name,cost,alliance,img,description
 5,ARCANE WHISPERS,,loveland,ponder_my_cube.png,Gain 1 Fear.
 1,HALLUCINATIONS,,loveland,hallucinations.jpg,Inflict 1 Suspicion.
 1,LOVELAND ALWAYS WINS,,loveland,yea_baby.jpg,"If you used a card to roll the die this turn, copy its effect."
-1,TOIL AND TROUBLE,,loveland,toil_and_trouble_sketch.png,"Roll the die. Gain Fear equal to half the roll's value, rounded down."
+1,TOIL AND TROUBLE,,loveland,toil_and_trouble.png,"Roll the die. Gain Fear equal to half the roll's value, rounded down."
 2,INTRUDER,2,mothman,todo.webp,"Reveal a random main deck card, copy its effect, reshuffle the main deck."
 3,A TERRIBLE OMEN,2,mothman,hellboy_hung.jpg,Gain a card that costs 4 or less.
 2,POKER HAND TIME,2,mothman,todo.webp,"If 4+ cards in the town have the same cost, reshuffle them into the main deck, and inflict suspicion equal to the amount of cards."

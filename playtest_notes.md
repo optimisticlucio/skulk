@@ -15,6 +15,31 @@ It'll be written in reverse chronological order so the newest is higher up, maki
 
 ## Playtest Notes
 
+### Dec 6th, Game 2
+
+Lucio (Wendigo), Finel (Frogman)
+
+#### Notes
+
+- [ ] Lower amount of The Great and Powerful
+- [ ] Weaken "Let's Get This Over With"
+- [ ] Add loveland frogman ability for 7+
+
+### Dec 6th, Game 1
+
+Lucio (Mothman), Finel (Flatwoods)
+
+#### Notes
+
+- [ ] Wendigo effect escapes borders.
+- [ ] Clarify "copy the effect" wording, it's confusing.
+- [ ] Shuffling probably annoying irl, there's a LOT of shuffle cards for the main deck.
+- [ ] Fix "Patience" wording.
+- [ ] Add more drawing for Flatwoods so it can organize drone
+- [ ] Scopophobia costs too much
+- [ ] Less bury cards
+
+
 ### Dec 6th, Outside of Play
 
 - [ ] Try having Drones that stay across turns in your play area.

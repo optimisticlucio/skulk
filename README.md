@@ -33,7 +33,7 @@ A 2-player deckbuilder where at the start of the game, each player picks a chara
 Each player, in turn, takes their turn:
 
 - During their turn they may play cards from their hand to their Play Area to act on whatever the card says in its card description, or purchase cards from the town if they have enough Fear, or use their character-specific ability, or end their turn.
-- To purchase a card a player must first have enough Fear, which is gained through specific cards in your deck. If you have more Fear than a given card's cost, you place the chosen card in your discard pile, replace the removed card with the top card of the Main Deck, and reduce your current Fear by the card's cost.
+- **Fear** is the currency through which you purchase cards from the town. By sowing enough terror in Helena, you are able to purchase town cards by spending the amount of fear listed on the top-left of the card. When purchased, place the given card in your discard pile, and replace the removed card in the town with a card from the top of the main deck.
 - Once per turn, they may use the unqiue ability listed on their card. Each time this ability is used they inflict Suspicion on themselves, so act carefully!
 - If a player chooses to end their turn, they must discard their hand and play area into the discard pile, which is face-up and can be browsed by all players. Their Fear is set to 0. Afterwards, they draw 5 cards from their deck, and the other player begins their turn.
 - If a player needs to draw a card from their deck, but their deck has no cards in it, shuffle said player's discard pile, place it face-down, and use it as their new deck.
