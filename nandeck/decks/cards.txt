@@ -43,9 +43,9 @@ ICON=,flatwood,"../../img/icon/flatwood.png"
 IF=[ALLIANCE]<>"neutral"
 
 ;Icon Background
-IMAGE=,"../../img/layout/icon_space.png",[ICON_X],89%,[ICON_WRAPPER_SIZE],[ICON_WRAPPER_SIZE],0,N
+IMAGE=,"../../img/layout/icon_space.png",[ICON_WRAPPER_X],89%,[ICON_WRAPPER_SIZE],[ICON_WRAPPER_SIZE],0,N
 
-ICONS=,[ALLIANCE],[ICON_WRAPPER_X],91%,[ICON_SIZE],[ICON_SIZE],[ICON_SIZE],[ICON_SIZE],0,PX
+ICONS=,[ALLIANCE],[ICON_X],91%,[ICON_SIZE],[ICON_SIZE],[ICON_SIZE],[ICON_SIZE],0,PX
 ENDIF
 
 ;Card Border
