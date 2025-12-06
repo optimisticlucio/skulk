@@ -4,7 +4,9 @@ A tabletop game originally made to practice coding skills (by making a digital v
 
 ## Narrative
 
-[TODO - Rewrite]
+Many years ago, you have arrived to the city of Helena, Montana, believing this would be the best place to hide in from constant eye witnesses. Life seems good, until you realize you’re not alone. There is another like you, living amongst the people of Helena. You don’t know how long they’ve been there, you don’t know what their intention is. But the whispers from town grow louder, they suspect something is skulking among them, and given enough time, they might find you.
+
+So you’ll give them a monster.
 
 ## Summarized Rules
 
