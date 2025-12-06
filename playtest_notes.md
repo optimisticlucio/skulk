@@ -15,13 +15,17 @@ It'll be written in reverse chronological order so the newest is higher up, maki
 
 ## Playtest Notes
 
+### Dec 6th, Outside of Play
+
+- [ ] Try having Drones that stay across turns in your play area.
+
 ### Dec 5th, Game 3
 
 Players: Viivo (Wendigo), Darth (Frogman)
 
 #### Notes
 
-- [ ] Clarify Wendigo Effect checks value *before* erasing.
+- [X] Clarify Wendigo Effect checks value *before* erasing.
 - [X] Clarify "Fear the Other" doesn't let you **buy** cards.
 - [X] Fear the Other is *depressing* to play, or atleast it's depressing darth. Maybe don't lower players' choices!
 - [X] Weaken God's Most Pathetic Cripple
@@ -39,11 +43,11 @@ Players: Viivo (Wendigo), Darth (Frogman)
 
 They really enjoyed playing it!
 
-- [ ] Clarify Wendigo Effect Wording
-- [ ] MAKE THE GODDAMN CHARACTER CARDS
+- [X] Clarify Wendigo Effect Wording
+- [X] MAKE THE GODDAMN CHARACTER CARDS
 - [ ] "Fear" and "Suspicion" are a little similar and lead to confusion?
-- [ ] Wendigo ability snowballs slowly
-- [ ] Specify Power Word Curse to "Inflict the Named Number"
+- [X] Wendigo ability snowballs slowly
+- [X] Specify Power Word Curse to "Inflict the Named Number"
 - [ ] "Graverobber and Winter Chill feel REALLY counterproductive to the wendigo's goal"
 - [ ] They really liked getting a LOT of identical starting cards
 - [ ] "Anything that self-inflicts suspicion I was very averse to, anything that inflicts more than one suspicion I felt was too powerful."

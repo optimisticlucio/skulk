@@ -34,7 +34,7 @@ Each player, in turn, takes their turn:
 - To purchase a card a player must first have enough Fear, which is gained through specific cards in your deck. If you have more Fear than a given card's cost, you place the chosen card in your discard pile, replace the removed card with the top card of the Main Deck, and reduce your current Fear by the card's cost.
 - Once per turn, they may use the unqiue ability listed on their card. Each time this ability is used they inflict Suspicion on themselves, so act carefully!
 - If a player chooses to end their turn, they must discard their hand and play area into the discard pile, which is face-up and can be browsed by all players. Their Fear is set to 0. Afterwards, they draw 5 cards from their deck, and the other player begins their turn.
-- If a player needs to draw a card from their deck, but their deck has no cards in it, shuffle the player's discard pile, place it face-down, and use it as their new deck.
+- If a player needs to draw a card from their deck, but their deck has no cards in it, shuffle said player's discard pile, place it face-down, and use it as their new deck.
 
 If a player reaches more than 9 suspicion at any point, they lose.
 
@@ -42,6 +42,6 @@ If there's conflict between the rules and the card effects, follow the card effe
 
 ## Keywords
 
-- **Erase:** Move a card to the Graveyard, a pile of cards near the main deck which is visible to all players. Cards in the Graveyard will (likely) not return to this match.
+- **Bury:** Move a card to the Graveyard, a pile of cards near the main deck which is visible to all players. Cards in the Graveyard will (likely) not return to this match.
 - **Discard:** Place a card into your discard pile.
 - **Inflict [x] Suspicion:** Move the Suspicion marker [x] spaces away from you/towards your opponent.
