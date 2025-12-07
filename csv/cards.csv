@@ -1,10 +1,15 @@
 count,name,cost,alliance,img,description
-30,DRONE,,flatwoods,ai_drone.png,Draw a card.
+2,FOLLOW MY VOICE,1,flatwoods,todo.webp,"Self-inflict 1 suspicion, gain a drone."
+3,GIVE IN,2,flatwoods,todo.webp,"Bury a card in your discard pile, gain a Drone."
+4,MARCHING ORDERS,4,flatwoods,todo.webp,"Draw three cards, discard two."
+3,HORDE,3,flatwoods,todo.webp,"Discard all Drones in your hand, inflict 1 suspicion for each discarded."
+3,SCOUT,3,flatwoods,todo.webp,"For every Drone in your hand, draw a card."
+20,DRONE,,flatwoods,drone.png,Draw a card.
 1,SLAVES FOR CHEAP,,flatwoods,bugs_pulled_out.png,Gain a Drone.
 5,UFO,,flatwoods,ufo.png,Gain 1 Fear.
 1,CONSPIRACY THEORIST,,flatwoods,conspiracy_theorist.png,Inflict 1 Suspicion.
-2,POWER WORD: STRENGTH,2,loveland,hellboy_crown.jpg,"Play this card after any die roll, before the effect happens. Add +1 to the roll value."
-4,THE GREAT AND POWERFUL,2,loveland,hellboy_rasputin.jpg,"Roll the die. If 5 or more, gain 6 Fear. Otherwise, that sucks."
+3,POWER WORD: STRENGTH,2,loveland,hellboy_crown.jpg,"Play this card after any die roll, before the effect happens. Add +1 to the roll value."
+3,THE GREAT AND POWERFUL,2,loveland,hellboy_rasputin.jpg,"Roll the die. If 5 or more, gain 6 Fear. Otherwise, that sucks."
 3,POWER WORD: CURSE,3,loveland,shadow_word_pain.jpg,"Name a number, roll the die. If you roll lower, self-inflict that number of suspicion. Otherwise, inflict the named number."
 3,POWER WORD: MISSILE,4,loveland,casting_couch.png,"Roll the Die. If 3 or more, inflict 4 suspicion. Otherwise, self-inflict 3 suspicion."
 3,INCESSANT CHANTING,6,loveland,incessant_chanting.jpg,Roll the die until the sum of the rolls is higher than the current suspicion meter. Draw a card for each roll you did.
@@ -22,38 +27,33 @@ count,name,cost,alliance,img,description
 1,ITS BACK BABY,,mothman,todo.webp,"Pick a graveyard card, copy its effect, shuffle it into the main deck."
 5,EYES IN THE DARK,,mothman,eyes_in_the_dark_v2.png,Gain 1 Fear.
 1,TRICK OF THE LIGHT,,mothman,trick_of_the_light.jpg,Inflict 1 Suspicion.
-1,SCOUT PREY,,mothman,todo.webp,"Pick a number. Gain 1 Fear for every town card with that cost, and shuffle those cards into the main deck."
+1,SCOUT PREY,,mothman,todo.webp,Copy the effect of a town card whose cost is 3 or less. 
 3,LEARN AND GROW,1,neutral,todo.webp,Gain 1 Fear. You may bury a card from your hand to gain 1 Fear.
 4,I MEAN SURE WHY NOT,1,neutral,todo.webp,"Draw two cards, discard two cards."
 4,GOD'S MOST PATHETIC CRIPPLE,1,neutral,todo.webp,"Gain 1 Fear. If buried, inflict 2 suspicion."
 2,JOLT OF ENERGY,1,neutral,todo.webp,"Bury this card, draw two cards."
-3,PATIENCE,2,neutral,todo.webp,"Look at the top card of your deck, you may discard it. Draw a card."
+3,PATIENCE,2,neutral,todo.webp,Draw a card. You may discard it to draw another.
 3,LET'S RUN THROUGH THESE,2,neutral,todo.webp,"Draw a card, bury a card in your hand."
 3,CONFIRMATION BIAS,2,neutral,todo.webp,"Inflict 1 Suspicion. If you already inflicted this turn, inflict 2 more. "
 2,CARD WHAT HELP YOU BOTH,3,neutral,todo.webp,"Draw two cards, your opponent draws a card."
 6,DOOMSAYER,3,neutral,homer_doomsayer.jpg,Gain 2 Fear.
 3,OPEN WARFARE,3,neutral,league_of_gentlemen_mary_poppins.jpg,Gain 3 Fear and self-inflict 3 Suspicion.
+3,SCOPOPHOBIA,3,neutral,todo.webp,Copy your character's ability for free.
 3,HERD MENTALITY,4,neutral,faceless_mob.jpg,Copy the effect of a card in your play area.
 5,POISON THE WATER SUPPLY,4,neutral,todo.webp,Inflict 2 Suspicion.
 1,PITCHFORKS AND TORCHES,5,neutral,simpsons_pitchforks.jpg,"For every two cards you've played this turn, inflict suspicion."
 2,REVEL IN INFAMY,5,neutral,todo.webp,"If the suspicion meter is aimed at you, gain fear equal to the meter's value. Else, inflict 2 suspicion."
-2,LET'S GET THIS OVER WITH,6,neutral,todo.webp,Inflict 3 Suspicion. You may bury up to 2 cards in your discard pile. Inflict 1 suspicion for each.
+2,LET'S GET THIS OVER WITH,7,neutral,todo.webp,Inflict 3 Suspicion. You may bury up to 2 cards in your discard pile. Inflict 1 suspicion for each.
 1,AS IT WAS WRITTEN,6,neutral,todo.webp,Inflict 2 suspicion. Place a card from your discard pile in your hand.
 1,CARD WHAT MORE DRAWS,7,neutral,todo.webp,Draw three cards.
 1,BIG MONEY,7,neutral,todo.webp,"Gain a card for free, place it at the top of your deck."
 1,HYSTERIA,8,neutral,dd_affliction.webp,Inflict 4 suspicion.
 4,INSATIABLE HUNGER,1,wendigo,my_name_is_daryl.jpg,Gain 1 Fear. Bury a card in your hand or discard pile.
 2,DEAD WEIGHT,2,wendigo,todo.webp,"When gained, place in opponent's discard pile. Does nothing."
-3,"ERASE, REPLACE",3,wendigo,todo.webp,"Copy the effect of a card in your play area, then bury it."
-4,SMELLING BLOOD,3,wendigo,todo.webp,Inflict 2 Suspicion. Bury a card in your hand to inflict 1 more.
+3,"ERASE, REPLACE",4,wendigo,todo.webp,"Copy the effect of a card in your play area, then bury it."
+4,SMELLING BLOOD,5,wendigo,todo.webp,Inflict 2 Suspicion. Bury a card in your hand to inflict 1 more.
 2,GRAVEROBBING,5,wendigo,todo.webp,Gain 2 Fear. This turn you may buy a card from the graveyard as if it were a town card.
 5,CAUTIONARY TALES,,wendigo,todo.webp,Gain 1 Fear.
 1,PLANTED EVIDENCE,,wendigo,todo.webp,Inflict 1 Suspicion.
 1,AFTERTASTE,,wendigo,todo.webp,Copy the effect of a random card in the graveyard.
 1,WINTER CHILL,,wendigo,todo.webp,"If this card is chosen to be buried, it remains in your ownership."
-3,SCOPOPHOBIA,4,neutral,todo.webp,Copy your character's ability for free.
-3,FOLLOW MY VOICE,1,flatwoods,todo.webp,"Self-inflict 1 suspicion, gain a drone."
-3,HORDE,3,flatwoods,todo.webp,"Discard all Drones in your hand, inflict 1 suspicion for each discarded."
-3,SCOUT,3,flatwoods,todo.webp,"For every Drone in your hand, draw a card."
-4,GIVE IN,2,flatwoods,todo.webp,"Bury a card in your discard pile, gain a Drone."
-2,HOMOGENEITY,2,flatwoods,todo.webp,"Select a card in your discard pile. If it's a Drone, gain another. Else, bury it."
