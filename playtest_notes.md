@@ -23,7 +23,7 @@ Lucio (Wendigo), Finel (Frogman)
 
 - [X] Lower amount of The Great and Powerful
 - [X] Weaken "Let's Get This Over With"
-- [ ] Add loveland frogman ability for 7+
+- [X] Add loveland frogman ability for 7+
 
 ### Dec 6th, Game 1
 
@@ -31,13 +31,13 @@ Lucio (Mothman), Finel (Flatwoods)
 
 #### Notes
 
-- [ ] Wendigo effect escapes borders.
+- [X] Wendigo effect escapes borders.
 - [ ] Clarify "copy the effect" wording, it's confusing.
-- [ ] Shuffling probably annoying irl, there's a LOT of shuffle cards for the main deck.
+- [X] Shuffling probably annoying irl, there's a LOT of shuffle cards for the main deck.
 - [X] Fix "Patience" wording.
-- [ ] Add more drawing for Flatwoods so it can organize drone
+- [X] Add more drawing for Flatwoods so it can organize drone
 - [X] Scopophobia costs too much
-- [ ] Less bury cards
+- [X] Less bury cards
 
 ### Dec 6th, Outside of Play
 
@@ -75,7 +75,7 @@ They really enjoyed playing it!
 - [ ] "Graverobber and Winter Chill feel REALLY counterproductive to the wendigo's goal"
 - [ ] They really liked getting a LOT of identical starting cards
 - [ ] "Anything that self-inflicts suspicion I was very averse to, anything that inflicts more than one suspicion I felt was too powerful."
-- [ ] Re: Smelling blood, rated as meh: "At that point, with how decent a lot of these cards are, I didn't want to get rid of any of them."
+- [X] Re: Smelling blood, rated as meh: "At that point, with how decent a lot of these cards are, I didn't want to get rid of any of them."
 - [ ] "Give me more aftertaste, or give me more cards like aftertaste"
 - [ ] "I liked confirmation bias because it was cheap and made me feel like I needed more cards to work with it"
 
