@@ -5,7 +5,7 @@ count,name,cost,alliance,img,description
 3,HORDE,5,flatwoods,todo.webp,"Gain a Drone, OR, bury all Drones in your hand and inflict 2 suspicion for each."
 3,SCOUT,3,flatwoods,todo.webp,"Gain a Drone, OR, draw a card for every Drone in your hand."
 20,DRONE,,flatwoods,drone.png,Draw a card.
-1,REMOTE CONTROL,,flatwoods,todo.webp,Bury a Drone to gain 3 Fear or inflict 2 Suspicion.
+1,REMOTE CONTROL,,flatwoods,todo.webp,Bury a Drone in your hand to gain 3 Fear or inflict 2 Suspicion.
 1,SLAVES FOR CHEAP,,flatwoods,bugs_pulled_out.png,Gain a Drone.
 5,UFO,,flatwoods,ufo.png,Gain 1 Fear.
 1,CONSPIRACY THEORIST,,flatwoods,conspiracy_theorist.png,Inflict 1 Suspicion.
@@ -28,7 +28,7 @@ count,name,cost,alliance,img,description
 1,ITS BACK BABY,,mothman,todo.webp,"Pick a graveyard card, copy its effect, place it at the top or bottom of the main deck."
 5,EYES IN THE DARK,,mothman,eyes_in_the_dark_v2.png,Gain 1 Fear.
 1,TRICK OF THE LIGHT,,mothman,trick_of_the_light.jpg,Inflict 1 Suspicion.
-1,SCOUT PREY,,mothman,todo.webp,Copy the effect of a town card whose cost is 3 or less. 
+1,SCOUT PREY,,mothman,todo.webp,"Copy the effect of a town card whose cost is 3 or less. "
 3,LEARN AND GROW,1,neutral,todo.webp,Gain 1 Fear. You may bury a card from your hand to gain 1 Fear.
 4,I MEAN SURE WHY NOT,1,neutral,todo.webp,"Draw two cards, discard two cards."
 4,GOD'S MOST PATHETIC CRIPPLE,1,neutral,todo.webp,"Gain 1 Fear. If buried, inflict 2 suspicion."

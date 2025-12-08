@@ -22,7 +22,9 @@ jobs:
 
       # Remember to update this next line whenever we add fonts
     - run: |
-        fontist install -vau "Inter" "Almendra" "Besley"
+        fontist install -vau "Inter"
+        fontist install -vau "Almendra"
+        fontist install -vau "Besley"
 
     #
     # ⬇⬇ CRITICAL STEP ⬇⬇
