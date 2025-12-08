@@ -23,7 +23,39 @@ jobs:
       # Remember to update this next line whenever we add fonts
     - run: |
         fontist install -vau "Inter" 
-        
+
+    #
+    # ⬇⬇ CRITICAL STEP ⬇⬇
+    # Copy installed Fontist fonts into Windows system fonts dir
+    # and register them as real Windows fonts so nanDECK sees them
+    #
+    - name: Install fonts into Windows font directory
+      shell: powershell
+      run: |
+        $FontistDir = "$env:USERPROFILE\.fontist\fonts"
+
+        Write-Host "Fontist fonts directory: $FontistDir"
+
+        $fonts = Get-ChildItem -Recurse -Include *.ttf, *.otf -Path $FontistDir
+
+        foreach ($font in $fonts) {
+          $dest = "C:\Windows\Fonts\$($font.Name)"
+          Write-Host "Installing $($font.Name) into Windows fonts..."
+          Copy-Item $font.FullName $dest -Force
+
+          # Register font with Windows
+          reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Fonts" `
+            /v "$($font.BaseName) (TrueType)" `
+            /t REG_SZ `
+            /d "$($font.Name)" `
+            /f
+        }
+
+        # Notify Windows to refresh font cache
+        Write-Host "Refreshing Windows font cache..."
+        rundll32.exe user32.dll,UpdatePerUserSystemParameters
+
+
     - name: Export main deck
       run: |
         .\nandeck\nanDECK.exe .\nandeck\decks\cards.txt /exec
