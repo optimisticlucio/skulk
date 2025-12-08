@@ -5,28 +5,35 @@ LINK=..\..\csv\cards.csv
 ;Card Art
 IMAGE=,"../../img/[img]",0%,0%,100%,100%,0,C
 
+
+
+;Card Border
+[BORDER_X] = 0.1
+[BORDER_Y] = 0.1
+
+[BORDER_WIDTH] = 100% - (([BORDER_X]) * 2)
+[BORDER_HEIGHT] = 100% - (([BORDER_Y]) * 2)
+
+IMAGE=,"../../img/layout/v2_full_layout.png",[BORDER_X],[BORDER_Y],[BORDER_WIDTH],[BORDER_HEIGHT],0,N
+COLORCHANGE=,[BORDER_X],[BORDER_Y],[BORDER_WIDTH],[BORDER_HEIGHT],#FFFFFF,#C8B898,255,V,"../../img/layout/v2_full_layout.png"
+
 ;Do not show cost if cost is null
 IF=[COST]<>""
-;[Cost]Background
-IMAGE=,"../../img/layout/cost_space.png",2.5%,2.5%,20%,20%,0,N
 ;[Cost]Font
-FONT=Inter,30,TB,#000000
+FONT=Almendra,28,TB,#FFFFFF
 ;[Cost]Text
-TEXT="1-{(COST)}",[COST],2.5%,2.5%,20%,20%,CENTER,WWCENTER
+TEXT="1-{(COST)}",[COST],[BORDER_X],[BORDER_Y]-1.5%,20%,15%,CENTER,WWCENTER
 ENDIF
 
-;Card Text Background
-IMAGE=,"../../img/layout/textbox.png",15%,70%,70%,22%,0,N
-
 ;Card Description Font
-FONT=Inter,5,T,#000000
+FONT="Besley SemiBold",6,T,#FFFFFF
 ;Card Description(size)
-TEXT="1-{(DESCRIPTION)}",[DESCRIPTION],20%,76%,60%,15%,CENTER,WWCENTER
+TEXT="1-{(DESCRIPTION)}",[DESCRIPTION],20%,75%,60%,15%,CENTER,WWCENTER
 
 ;Card Name Font
-FONT=Inter,8,TB,#000000
+FONT=Almendra,8,TB,#FFFFFF
 ;Card Name
-TEXT="1-{(NAME)}",[NAME],15%,68%,70%,10%,CENTER,WWCENTER
+TEXT="1-{(NAME)}",[NAME],15%,65%,70%,10%,CENTER,WWCENTER
 
 ;Card Icon Selection
 ICON=,mothman,"../../img/icon/mothman.png"
@@ -35,20 +42,9 @@ ICON=,wendigo,"../../img/icon/wendigo.png"
 ICON=,flatwood,"../../img/icon/flatwood.png"
 
 [ICON_SIZE] = 0.3
-[ICON_X] = ((INFO(W) - [ICON_SIZE]) / 2)
-
-[ICON_WRAPPER_SIZE] = ([ICON_SIZE] + 0.3)
-[ICON_WRAPPER_X] = ((INFO(W) - [ICON_WRAPPER_SIZE]) / 2)
 
 IF=[ALLIANCE]<>"neutral"
-
-;Icon Background
-IMAGE=,"../../img/layout/icon_space.png",[ICON_WRAPPER_X],89%,[ICON_WRAPPER_SIZE],[ICON_WRAPPER_SIZE],0,N
-
-ICONS=,[ALLIANCE],[ICON_X],91%,[ICON_SIZE],[ICON_SIZE],[ICON_SIZE],[ICON_SIZE],0,PX
+ICONS=,[ALLIANCE],9%,20%,[ICON_SIZE],[ICON_SIZE],[ICON_SIZE],[ICON_SIZE],0,PX
 ENDIF
-
-;Card Border
-IMAGE=,"../../img/layout/basic_border.png",2.5%,2.5%,95%,95%,0,N
 
 DISPLAY="..\export\deck{§}.png",,,10x7
