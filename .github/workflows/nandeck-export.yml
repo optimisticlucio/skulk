@@ -11,6 +11,13 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v4
 
+    - name: Setup Fontist to Download Fonts
+      uses: fontist/setup-fontist@v2
+
+      # Remember to update this next line whenever we add fonts
+    - run: |
+        fontist install "Inter"
+
     - name: Export main deck
       run: |
         .\nandeck\nanDECK.exe .\nandeck\decks\cards.txt /exec
