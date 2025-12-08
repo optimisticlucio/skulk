@@ -24,6 +24,16 @@ jobs:
     - run: |
         fontist install "Inter"
 
+    - name: Install all Fontist fonts to Windows system fonts
+      shell: powershell
+      run: |
+        $fontRoot = "$env:LOCALAPPDATA\Fontist\fonts"
+        Write-Host "Copying fonts from $fontRoot"
+        Get-ChildItem -Path $fontRoot -Recurse -Include *.ttf, *.otf |
+          ForEach-Object {
+            Write-Host "Installing font: $($_.FullName)"
+            Copy-Item $_.FullName -Destination "C:\Windows\Fonts" -Force
+          }
     - name: Export main deck
       run: |
         .\nandeck\nanDECK.exe .\nandeck\decks\cards.txt /exec
