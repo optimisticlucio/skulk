@@ -22,7 +22,7 @@ jobs:
 
       # Remember to update this next line whenever we add fonts
     - run: |
-        fontist install -vau "Inter" 
+        fontist install -vau "Inter" "Almendra" "Besley"
 
     #
     # ⬇⬇ CRITICAL STEP ⬇⬇
@@ -59,6 +59,11 @@ jobs:
     - name: Export main deck
       run: |
         .\nandeck\nanDECK.exe .\nandeck\decks\cards.txt /exec
+      shell: cmd
+
+    - name: Export Characters
+      run: |
+        .\nandeck\nanDECK.exe .\nandeck\decks\character.txt /exec
       shell: cmd
       
     - name: Upload Export Folder
