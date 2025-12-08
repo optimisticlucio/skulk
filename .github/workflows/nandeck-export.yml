@@ -17,6 +17,8 @@ jobs:
         ruby-version: "3.0.0"
     - name: Setup Fontist to Download Fonts
       uses: fontist/setup-fontist@v2
+      with:
+        fontist-version: "2.0.3"
 
       # Remember to update this next line whenever we add fonts
     - run: |
