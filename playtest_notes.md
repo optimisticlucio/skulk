@@ -37,7 +37,7 @@ Skyber (Wendigo / Flatwoods), Lucio (Flatwoods / Wendigo)
 - [ ] Winter Chill blows
 - [X] Clarify you choose in Back for Seconds
 - [X] Weaken Negativity Bias
-- [ ] Flatwoods monster ability should target the play area
+- [X] Flatwoods monster ability should target the play area
 - [ ] Reconsider Flatwoods' Monster Ability
 
 ### Dec 9th, Game 1
