@@ -15,6 +15,22 @@ It'll be written in reverse chronological order so the newest is higher up, maki
 
 ## Playtest Notes
 
+### Dec 9th
+
+Skyber (Flatwood), Hari (Loveland)
+
+#### Notes
+
+- [X] "why doesn't the drone STAY ON THE BOARD LUCIO IF IT SOUNDS LIKE MINION AND LOOKS LIKE MINION WHY ISN'T IT MINION"
+- [X] word consistency in Flatwood ability (uses Bury and Erased, should just be "for each buried")
+- [ ] The great and powerful isn't too bad on its own (could cost more probably, too cheap) but,
+- [X] Loveland always wins as a base card is way too strong, especially with Toil and Trouble already being in the starting deck (along with 5 gain fear cards) makes for WAY too much fair gain, far more than any character can even dream of getting before dying.
+- [X] Flatwood ability is really not compelling to use unless you win the game with it or something (too expensive AND lose all drones really sucks)
+- [ ] Magic missile too strong, 50/50 for a potentially game changing effect, less numbers (60% for 4 sus is NUTS. Needs to be 4 or more or something, ouch)
+- [X] Scout should work off drones in your play area (opponent can't see how you gained all the cards from drones that may or may not be in your hand)
+- [X] All drones in hand should be drones in play area honestly (from Guy, players need to see what's happening)
+- [X] Opponents don't get much use out of Power Word: Strength to screw over opponent
+
 ### Dec 8th
 
 Skyber (Mothman), Luce (Wendigo)
