@@ -23,18 +23,18 @@ count,name,cost,alliance,img,description
 2,POKER HAND TIME,2,mothman,todo.webp,"If 4+ cards in the town have the same cost, place them on the bottom of the main deck, and inflict suspicion equal to the amount of cards."
 3,NOT GONE LOL,2,mothman,todo.webp,"Reveal a random graveyard card, copy its effect."
 2,LIGHT HOUSE,2,mothman,get_a_flush.png,"If 3 town cards have the same cost, and 2 others have a different cost, inflict 5 suspicion and place the town at the bottom of the main deck. Else, bury a town card."
-2,FOLLOW THE LIGHT,4,mothman,todo.webp,"When this card is acquired, bury this card, and acquire the top 3 cards of the main deck."
-1,BLINDING LIGHT,4,mothman,todo.webp,"X is 1. Bury a town card that costs X and inflict X suspicion. You may repeat this card's effect, adding 1 to X, as much as you can."
+2,FOLLOW THE LIGHT,5,mothman,todo.webp,"When this card is acquired, bury this card, and acquire the top 3 cards of the main deck."
+1,BLINDING LIGHT,4,mothman,todo.webp,"Bury a town card. You may continue to bury cards, as long as each successive card costs 1 Fear more than the previous. Inflict 1 suspicion for each card buried."
 1,ITS BACK BABY,,mothman,todo.webp,"Pick a graveyard card, copy its effect, place it at the top or bottom of the main deck."
 5,EYES IN THE DARK,,mothman,eyes_in_the_dark_v2.png,Acquire 1 Fear.
 1,TRICK OF THE LIGHT,,mothman,trick_of_the_light.jpg,Inflict 1 Suspicion.
-1,SCOUT PREY,,mothman,todo.webp,"Copy the effect of a town card whose cost is 3 or less. "
+1,SCOUT PREY,,mothman,todo.webp,Copy the effect of a town card whose cost is 3 or less. 
 3,HESITANT NEW FACES,1,neutral,worried_laughter.png,Acquire 1 Fear. You may bury a card from your hand to acquire 1 Fear.
 4,PATROL ROUND,1,neutral,security.jpg,"Draw two cards, discard two cards."
 4,INNOCENT CHILD,1,neutral,smiling_child.jpg,"Acquire 1 Fear. If buried, inflict 2 suspicion."
 2,CLOSE YOUR BLINDS,1,neutral,half_open_blinds.jpg,"Bury this card, draw two cards."
 3,INFIGHTING,2,neutral,man_at_arms.jpg,Draw a card. You may discard it to draw another.
-3,NEGATIVITY BIAS,2,neutral,where_did_the_years_go.jpg,"Inflict 1 Suspicion. If you already inflicted this turn, inflict 2 more. "
+3,NEGATIVITY BIAS,2,neutral,where_did_the_years_go.jpg,"Inflict 1 Suspicion. If you already inflicted this turn, inflict 1 more. "
 5,DOOMSAYER,3,neutral,homer_doomsayer.jpg,Acquire 2 Fear.
 3,MAKING A STATEMENT,3,neutral,league_of_gentlemen_mary_poppins.jpg,Acquire 3 Fear and self-inflict 2 Suspicion.
 3,SCOPOPHOBIA,3,neutral,makima_is_listening.jpg,Perform your character's ability without paying the suspicion cost.
@@ -50,7 +50,7 @@ count,name,cost,alliance,img,description
 4,INSATIABLE HUNGER,1,wendigo,my_name_is_daryl.jpg,Acquire 1 Fear. Bury a card in your hand or discard pile.
 2,DEAD WEIGHT,2,wendigo,todo.webp,"When this card is acquired, place it in opponent's discard pile. Does nothing."
 4,"ERASE, REPLACE",4,wendigo,todo.webp,"Copy the effect of a card in your play area, then bury it."
-3,BACK FOR SECONDS,4,wendigo,todo.webp,"Copy the effect of a card in the Graveyard, then place it at the bottom of the main deck."
+3,BACK FOR SECONDS,4,wendigo,todo.webp,"Choose a card in the Graveyard. Copy its effect, then place it at the bottom of the main deck."
 2,GRAVEROBBING,5,wendigo,todo.webp,Acquire 2 Fear. This turn you may buy a card from the graveyard as if it were a town card.
 5,CAUTIONARY TALES,,wendigo,todo.webp,Acquire 1 Fear.
 1,PLANTED EVIDENCE,,wendigo,todo.webp,Inflict 1 Suspicion.

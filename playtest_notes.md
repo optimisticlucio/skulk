@@ -15,14 +15,39 @@ It'll be written in reverse chronological order so the newest is higher up, maki
 
 ## Playtest Notes
 
-### Dec 9th
+### Dec 9th, Game 4
+
+Skyber (Mothman), Finel (Wendigo)
+
+#### Notes
+
+- [X] Add "Another 1 Fear" to "Hesitant New Faces"
+- [ ] People don't want to play Making a Statement
+- [ ] Mothman feels aimless
+- [ ] Add more cards that deal suspicion
+- [X] Follow the Light feels busted
+
+### Dec 9th, Games 2 & 3
+
+Skyber (Wendigo / Flatwoods), Lucio (Flatwoods / Wendigo)
+
+#### Notes
+
+- [ ] Aftertaste - maybe a little too strong
+- [ ] Winter Chill blows
+- [X] Clarify you choose in Back for Seconds
+- [X] Weaken Negativity Bias
+- [ ] Flatwoods monster ability should target the play area
+- [ ] Reconsider Flatwoods' Monster Ability
+
+### Dec 9th, Game 1
 
 Justworks (Mothman), Viivo (Wendigo)
 
 #### Notes
 
 - [ ] Multiple cards have text overlap (mostly Mothman)
-- [ ] The buildup for the Wendigo's ability has less steps and is steeper, making it feel less fun.
+- [X] The buildup for the Wendigo's ability has less steps and is steeper, making it feel less fun.
 - [ ] First time players seem averse to using the abilities
 - [ ] Light House is broken AF
 - [ ] In general - rework the mothman cards that try to get some poker setup on the board, his ability already does that
