@@ -17,6 +17,20 @@ It'll be written in reverse chronological order so the newest is higher up, maki
 
 ### Dec 9th
 
+Justworks (Mothman), Viivo (Wendigo)
+
+#### Notes
+
+- [ ] Multiple cards have text overlap (mostly Mothman)
+- [ ] The buildup for the Wendigo's ability has less steps and is steeper, making it feel less fun.
+- [ ] First time players seem averse to using the abilities
+- [ ] Light House is broken AF
+- [ ] In general - rework the mothman cards that try to get some poker setup on the board, his ability already does that
+- [ ] Wendigo's ability can hard-counter a mothman's attempts to set the board up
+- [ ] Reword Blinding Light, that is a MESS
+
+### Dec 9th
+
 Skyber (Flatwood), Hari (Loveland)
 
 #### Notes

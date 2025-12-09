@@ -28,7 +28,7 @@ count,name,cost,alliance,img,description
 1,ITS BACK BABY,,mothman,todo.webp,"Pick a graveyard card, copy its effect, place it at the top or bottom of the main deck."
 5,EYES IN THE DARK,,mothman,eyes_in_the_dark_v2.png,Acquire 1 Fear.
 1,TRICK OF THE LIGHT,,mothman,trick_of_the_light.jpg,Inflict 1 Suspicion.
-1,SCOUT PREY,,mothman,todo.webp,Copy the effect of a town card whose cost is 3 or less. 
+1,SCOUT PREY,,mothman,todo.webp,"Copy the effect of a town card whose cost is 3 or less. "
 3,HESITANT NEW FACES,1,neutral,worried_laughter.png,Acquire 1 Fear. You may bury a card from your hand to acquire 1 Fear.
 4,PATROL ROUND,1,neutral,security.jpg,"Draw two cards, discard two cards."
 4,INNOCENT CHILD,1,neutral,smiling_child.jpg,"Acquire 1 Fear. If buried, inflict 2 suspicion."
