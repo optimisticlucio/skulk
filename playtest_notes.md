@@ -23,9 +23,9 @@ Skyber (Mothman), Luce (Wendigo)
 
 - [ ] Fix text on cards
 - [ ] Fix wording on Mothman Poker Hand Cards
-- [ ] Fix some numbers no aligning properly on cost box
+- [X] Fix some numbers no aligning properly on cost box
 - [X] Clear up effects of ITS BACK BABY (when you copy the effects of Gain cards it technically doesn't work because you don't Gain the cards)
-- [ ] ~~Copy your character's abillity for free~~ Perform your character's ability without paying the suspicion cost.
+- [X] ~~Copy your character's abillity for free~~ Perform your character's ability without paying the suspicion cost.
 - [ ] Add a card for copying your opponent's ability?
 - [ ] Less gain fear cards? (Mothman starts with 5 with a starter deck of 8 you crazy man, Wendigo should have that many since its ability sucks balls at the start)
 

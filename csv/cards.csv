@@ -28,7 +28,7 @@ count,name,cost,alliance,img,description
 1,ITS BACK BABY,,mothman,todo.webp,"Pick a graveyard card, copy its effect, place it at the top or bottom of the main deck."
 5,EYES IN THE DARK,,mothman,eyes_in_the_dark_v2.png,Gain 1 Fear.
 1,TRICK OF THE LIGHT,,mothman,trick_of_the_light.jpg,Inflict 1 Suspicion.
-1,SCOUT PREY,,mothman,todo.webp,"Copy the effect of a town card whose cost is 3 or less. "
+1,SCOUT PREY,,mothman,todo.webp,Copy the effect of a town card whose cost is 3 or less. 
 3,LEARN AND GROW,1,neutral,todo.webp,Gain 1 Fear. You may bury a card from your hand to gain 1 Fear.
 4,I MEAN SURE WHY NOT,1,neutral,todo.webp,"Draw two cards, discard two cards."
 4,GOD'S MOST PATHETIC CRIPPLE,1,neutral,todo.webp,"Gain 1 Fear. If buried, inflict 2 suspicion."
@@ -39,7 +39,7 @@ count,name,cost,alliance,img,description
 2,CARD WHAT HELP YOU BOTH,3,neutral,todo.webp,"Draw two cards, your opponent draws a card."
 6,DOOMSAYER,3,neutral,homer_doomsayer.jpg,Gain 2 Fear.
 3,OPEN WARFARE,3,neutral,league_of_gentlemen_mary_poppins.jpg,Gain 3 Fear and self-inflict 2 Suspicion.
-3,SCOPOPHOBIA,3,neutral,todo.webp,Copy your character's ability for free.
+3,SCOPOPHOBIA,3,neutral,todo.webp,Perform your character's ability without paying the suspicion cost.
 3,HERD MENTALITY,4,neutral,faceless_mob.jpg,Copy the effect of a card in your play area.
 5,POISON THE WATER SUPPLY,4,neutral,todo.webp,Inflict 2 Suspicion.
 1,PITCHFORKS AND TORCHES,5,neutral,simpsons_pitchforks.jpg,"For every two cards you've played this turn, inflict suspicion."

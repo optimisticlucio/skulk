@@ -5,7 +5,12 @@ LINK=..\..\csv\cards.csv
 ;Card Art
 IMAGE=,"../../img/[img]",0%,0%,100%,100%,0,C
 
-
+;Select colors for border to be in
+SET=LABELRANGE([ALLIANCE],"neutral"),BORDER_COLOR,#C8B898
+SET=LABELRANGE([ALLIANCE],"mothman"),BORDER_COLOR,#75052A
+SET=LABELRANGE([ALLIANCE],"loveland"),BORDER_COLOR,#994F1A
+SET=LABELRANGE([ALLIANCE],"flatwoods"),BORDER_COLOR,#166757
+SET=LABELRANGE([ALLIANCE],"wendigo"),BORDER_COLOR,#34274C
 
 ;Card Border
 [BORDER_X] = 0.1
@@ -15,18 +20,18 @@ IMAGE=,"../../img/[img]",0%,0%,100%,100%,0,C
 [BORDER_HEIGHT] = 100% - (([BORDER_Y]) * 2)
 
 IMAGE=,"../../img/layout/v2_full_layout.png",[BORDER_X],[BORDER_Y],[BORDER_WIDTH],[BORDER_HEIGHT],0,N
-COLORCHANGE=,[BORDER_X],[BORDER_Y],[BORDER_WIDTH],[BORDER_HEIGHT],#FFFFFF,#C8B898,255,V,"../../img/layout/v2_full_layout.png"
+COLORCHANGE=,[BORDER_X],[BORDER_Y],[BORDER_WIDTH],[BORDER_HEIGHT],#FFFFFF,{BORDER_COLOR?1},255,V,"../../img/layout/v2_full_layout.png"
 
 ;Do not show cost if cost is null
 IF=[COST]<>""
 ;[Cost]Font
 FONT=Almendra,28,TB,#FFFFFF
 ;[Cost]Text
-TEXT="1-{(COST)}",[COST],[BORDER_X],[BORDER_Y]-1.5%,20%,15%,CENTER,WWCENTER
+TEXT="1-{(COST)}",[COST],[BORDER_X],[BORDER_Y]-1.75%,19.5%,15%,CENTER,WWCENTER
 ENDIF
 
 ;Card Description Font
-FONT="Besley SemiBold",6,T,#FFFFFF
+FONT="Besley SemiBold",5,T,#FFFFFF
 ;Card Description(size)
 TEXT="1-{(DESCRIPTION)}",[DESCRIPTION],20%,75%,60%,15%,CENTER,WWCENTER
 
