@@ -54,6 +54,7 @@ There are mechanics which are mentioned often in cards, or were mentioned before
 - **Acquire Fear**: Take the listed amount of Fear Tokens and place them near you. These tokens are used mostly to purchase new cards.
 - **Inflict [X] Suspicion:**: Move the Suspicion Marker [X] spaces towards the opponent's side. If the card says to self-inflict, move that amount of spaces towards your side.
 - **Bury a Card:** Move a card to the Graveyard, a face-up pile of cards which is visible to everyone in the game. Everyone interacts with the same Graveyard.
+- **Acquire a Card:** Place the given card in your discard pile.
 - **Copy an Ability:** If a card says to copy another card's ability, perform the action listed on the second card, while treating anything that refers to "this card" as referring to the first card.
 
 ## Play Example
