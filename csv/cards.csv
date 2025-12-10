@@ -20,12 +20,11 @@ count,name,cost,alliance,img,description
 1,TOIL AND TROUBLE,,loveland,toil_and_trouble.png,"Roll the die. Acquire Fear equal to half the roll's value, rounded down."
 2,INTRUDER,2,mothman,todo.webp,"Reveal the top card of the main deck, copy its effect, place it at the bottom of the deck."
 3,A TERRIBLE OMEN,2,mothman,hellboy_hung.jpg,Acquire a card that costs 4 or less.
-2,POKER HAND TIME,2,mothman,todo.webp,"If 4+ cards in the town have the same cost, place them on the bottom of the main deck, and inflict suspicion equal to the amount of cards."
-3,NOT GONE LOL,2,mothman,todo.webp,"Reveal a random graveyard card, copy its effect."
-2,LIGHT HOUSE,2,mothman,get_a_flush.png,"If 3 town cards have the same cost, and 2 others have a different cost, inflict 5 suspicion and place the town at the bottom of the main deck. Else, bury a town card."
-2,FOLLOW THE LIGHT,5,mothman,todo.webp,"When this card is acquired, bury this card, and acquire the top 3 cards of the main deck."
-1,BLINDING LIGHT,4,mothman,todo.webp,"Bury a town card. You may continue to bury cards, as long as each successive card costs 1 Fear more than the previous. Inflict 1 suspicion for each card buried."
-1,ITS BACK BABY,,mothman,todo.webp,"Pick a graveyard card, copy its effect, place it at the top or bottom of the main deck."
+3,POKER HAND TIME,2,mothman,todo.webp,"If 4+ cards in the town have the same cost, place them on the bottom of the main deck, and inflict suspicion equal to the amount of cards."
+2,PLUCK FROM THE STREETS,3,mothman,todo.webp,Place a card from the graveyard on either the top or bottom of the main deck.
+3,FOLLOW THE LIGHT,5,mothman,todo.webp,"When this card is acquired, bury this card, and acquire the top 3 cards of the main deck."
+2,BLINDING LIGHT,4,mothman,todo.webp,"Bury a town card. You may continue to bury cards, as long as each successive card costs 1 Fear more than the previous. Inflict 1 suspicion for each card buried."
+1,WATCH THE GATES,,mothman,todo.webp,Look at the top 4 cards of the main deck. You may return them to the top or bottom of the deck in any order.
 5,EYES IN THE DARK,,mothman,eyes_in_the_dark_v2.png,Acquire 1 Fear.
 1,TRICK OF THE LIGHT,,mothman,trick_of_the_light.jpg,Inflict 1 Suspicion.
 1,SCOUT PREY,,mothman,todo.webp,Copy the effect of a town card whose cost is 3 or less. 
@@ -34,14 +33,14 @@ count,name,cost,alliance,img,description
 4,INNOCENT CHILD,1,neutral,smiling_child.jpg,"Acquire 1 Fear. If buried, inflict 2 suspicion."
 2,CLOSE YOUR BLINDS,1,neutral,half_open_blinds.jpg,"Bury this card, draw two cards."
 3,INFIGHTING,2,neutral,man_at_arms.jpg,Draw a card. You may discard it to draw another.
-3,NEGATIVITY BIAS,2,neutral,where_did_the_years_go.jpg,"Inflict 1 Suspicion. If you already inflicted this turn, inflict 1 more. "
+4,NEGATIVITY BIAS,2,neutral,where_did_the_years_go.jpg,"Inflict 1 Suspicion. If you already inflicted this turn, inflict 1 more. "
 5,DOOMSAYER,3,neutral,homer_doomsayer.jpg,Acquire 2 Fear.
-3,MAKING A STATEMENT,3,neutral,league_of_gentlemen_mary_poppins.jpg,Acquire 3 Fear and self-inflict 2 Suspicion.
+3,MAKING A STATEMENT,3,neutral,league_of_gentlemen_mary_poppins.jpg,Discard a card to acquire 3 Fear.
 3,SCOPOPHOBIA,3,neutral,makima_is_listening.jpg,Perform your character's ability without paying the suspicion cost.
 3,HERD MENTALITY,4,neutral,faceless_mob.jpg,Copy the effect of a card in your play area.
 5,MASKED MEN,4,neutral,the_purge.jpg,Inflict 2 Suspicion.
-1,PITCHFORKS AND TORCHES,5,neutral,simpsons_pitchforks.jpg,"For every two cards you've played this turn, inflict suspicion."
-2,REVEL IN INFAMY,5,neutral,batman.jpg,"If the suspicion meter is aimed at you, acquire fear equal to the meter's value. Else, inflict 2 suspicion."
+2,PITCHFORKS AND TORCHES,5,neutral,simpsons_pitchforks.jpg,"For every two cards you've played this turn, inflict suspicion."
+3,REVEL IN INFAMY,5,neutral,batman.jpg,"If the suspicion meter is aimed at you, acquire fear equal to the meter's value. Else, inflict 2 suspicion."
 2,MASSACRE,7,neutral,watchmen_ending.jpg,Inflict 3 Suspicion. You may bury up to 2 cards in your discard pile. Inflict 1 suspicion for each.
 1,AS IT WAS WRITTEN,6,neutral,todo.webp,Inflict 2 suspicion. Place a card from your discard pile in your hand.
 1,CARD WHAT MORE DRAWS,7,neutral,todo.webp,Draw three cards.
@@ -55,4 +54,4 @@ count,name,cost,alliance,img,description
 5,CAUTIONARY TALES,,wendigo,todo.webp,Acquire 1 Fear.
 1,PLANTED EVIDENCE,,wendigo,todo.webp,Inflict 1 Suspicion.
 1,AFTERTASTE,,wendigo,todo.webp,Copy the effect of a random card in the graveyard.
-1,WINTER CHILL,,wendigo,todo.webp,"If this card is chosen to be buried, it remains in your ownership."
+1,OLD HABITS,,wendigo,todo.webp,"Bury a card in your play area and gain its Fear cost. If the card doesn't have a cost, gain 1 Fear."
