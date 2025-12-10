@@ -33,7 +33,7 @@ ENDIF
 ;Card Description Font
 FONT="Besley SemiBold",5,T,#FFFFFF
 ;Card Description(size)
-TEXT="1-{(DESCRIPTION)}",[DESCRIPTION],20%,75%,60%,15%,CENTER,WWCENTER
+TEXT="1-{(DESCRIPTION)}",[DESCRIPTION],15%,75%,70%,15%,CENTER,WWCENTER
 
 ;Card Name Font
 FONT=Almendra,8,TB,#FFFFFF
