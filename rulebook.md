@@ -6,8 +6,6 @@ Until you weren't alone. You have found that is another like you, living amongst
 
 It's not personal. It's just survival. And it's either you or *that*.
 
-`This is probably way too long.`
-
 ## Game Summary
 
 In **Skulk**, you'll be playing as one of various cryptids, trying to make a frightened townspeople discover a different cryptid than yourself. You will slowly improve a deck of cards representing the various things you do around town, grow your power and influence, and make sure *they* will be the ones at the business end of the mob's pitchfork and not yourself.
@@ -50,7 +48,7 @@ Once you deem you've done enough, you may **end your turn.** When your turn ends
 
 There are mechanics which are mentioned often in cards, or were mentioned before in the instructions. For clarity, here's what they mean.
 
-- **Draw a Card:** Take a card from your deck and place it in your hand. If your deck is empty, take your discard pile, shuffle it, and place it face down as your new deck.
+- **Draw a Card:** Take a card from your deck and place it in your hand. If your deck is empty, take your discard pile, shuffle it, and place it face down as your new deck. If your discard pile is also empty, you don't draw a card.
 - **Acquire Fear**: Take the listed amount of Fear Tokens and place them near you. These tokens are used mostly to purchase new cards.
 - **Inflict [X] Suspicion:**: Move the Suspicion Marker [X] spaces towards the opponent's side. If the card says to self-inflict, move that amount of spaces towards your side.
 - **Bury a Card:** Move a card to the Graveyard, a face-up pile of cards which is visible to everyone in the game. Everyone interacts with the same Graveyard.
