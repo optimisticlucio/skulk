@@ -15,6 +15,23 @@ It'll be written in reverse chronological order so the newest is higher up, maki
 
 ## Playtest Notes
 
+### Dec 11th, Game 2
+
+Lucio (Mothman), Rura (Loveland)
+
+#### Notes
+
+- [ ] Scopophobia is really good, maybe a little too good
+- [ ] Making a Statement is now weak
+- [ ] Follow the Light is still good
+- [ ] Loveland Always Wins is probably a little too weak
+- [ ] This game took REALLY long. Maybe make cards generally a little better to speed up average game length?
+- [ ] Mothman makes the deck run REAL quick. May be bad thing?
+
+#### Ideas
+
+- [ ] Cards that are hyper-specific to specific characters
+
 ### Dec 11th, Game 1
 
 Lucio (Wendigo), Qulexic (Frogman)
