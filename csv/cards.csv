@@ -23,7 +23,7 @@ count,name,cost,alliance,img,description
 3,POKER HAND TIME,2,mothman,todo.webp,"If 4+ cards in the town have the same cost, place them on the bottom of the main deck, and inflict suspicion equal to the amount of cards."
 2,PLUCK FROM THE STREETS,3,mothman,todo.webp,Place a card from the graveyard on either the top or bottom of the main deck.
 3,FOLLOW THE LIGHT,5,mothman,todo.webp,"When this card is acquired, bury this card, and acquire the top 3 cards of the main deck."
-2,BLINDING LIGHT,4,mothman,todo.webp,"Bury a town card. You may continue to bury cards, as long as each successive card costs 1 Fear more than the previous. Inflict 1 suspicion for each card buried."
+2,BLINDING LIGHT,4,mothman,light_kira.png,"Bury a town card. You may continue to bury cards, as long as each successive card costs 1 Fear more than the previous. Inflict 1 suspicion for each card buried."
 1,WATCH THE GATES,,mothman,todo.webp,Look at the top 4 cards of the main deck. You may return them to the top or bottom of the deck in any order.
 5,EYES IN THE DARK,,mothman,eyes_in_the_dark_v2.png,Acquire 1 Fear.
 1,TRICK OF THE LIGHT,,mothman,trick_of_the_light.jpg,Inflict 1 Suspicion.
@@ -43,15 +43,15 @@ count,name,cost,alliance,img,description
 3,REVEL IN INFAMY,5,neutral,batman.jpg,"If the suspicion meter is aimed at you, acquire fear equal to the meter's value. Else, inflict 2 suspicion."
 2,MASSACRE,7,neutral,watchmen_ending.jpg,Inflict 3 Suspicion. You may bury up to 2 cards in your discard pile. Inflict 1 suspicion for each.
 1,AS IT WAS WRITTEN,6,neutral,todo.webp,Inflict 2 suspicion. Place a card from your discard pile in your hand.
-1,CARD WHAT MORE DRAWS,7,neutral,todo.webp,Draw three cards.
-1,BIG MONEY,7,neutral,todo.webp,"Acquire a card for free, place it at the top of your deck."
+1,BLIND ADRENALINE,7,neutral,adrenaline.webp,Draw three cards.
+1,BIG MONEY,7,neutral,todo.webp,"Acquire a town card for free, place it at the top of your deck."
 1,HYSTERIA,8,neutral,dd_affliction.webp,Inflict 4 suspicion.
 4,INSATIABLE HUNGER,1,wendigo,my_name_is_daryl.jpg,Acquire 1 Fear. Bury a card in your hand or discard pile.
-2,DEAD WEIGHT,2,wendigo,todo.webp,"When this card is acquired, place it in opponent's discard pile. Does nothing."
+2,DEAD WEIGHT,2,wendigo,you_are_an_idiot.png,"When this card is acquired, place it in opponent's discard pile. Does nothing."
 4,"ERASE, REPLACE",4,wendigo,todo.webp,"Copy the effect of a card in your play area, then bury it."
 3,BACK FOR SECONDS,4,wendigo,todo.webp,"Choose a card in the Graveyard. Copy its effect, then place it at the bottom of the main deck."
-2,GRAVEROBBING,5,wendigo,todo.webp,Acquire 2 Fear. This turn you may buy a card from the graveyard as if it were a town card.
+2,GRAVEROBBING,5,wendigo,deadpool_and_wolverine.png,Acquire 2 Fear. This turn you may buy a card from the graveyard as if it were a town card.
 5,CAUTIONARY TALES,,wendigo,todo.webp,Acquire 1 Fear.
-1,PLANTED EVIDENCE,,wendigo,todo.webp,Inflict 1 Suspicion.
+1,PLANTED EVIDENCE,,wendigo,cartoon_severed_arm.jpg,Inflict 1 Suspicion.
 1,AFTERTASTE,,wendigo,todo.webp,Copy the effect of a random card in the graveyard.
 1,OLD HABITS,,wendigo,todo.webp,"Bury a card in your play area and gain its Fear cost. If the card doesn't have a cost, gain 1 Fear."
