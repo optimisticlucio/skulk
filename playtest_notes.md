@@ -15,6 +15,15 @@ It'll be written in reverse chronological order so the newest is higher up, maki
 
 ## Playtest Notes
 
+### Dec 11th, Game 1
+
+Lucio (Wendigo), Qulexic (Frogman)
+
+#### Notes
+
+- [ ] Asked if there was an easier way to keep track of fear than tokens
+- [ ] Qulexic got bored midway through the game, noting they preferred more fast-paced games
+
 ### Dec 9th, Game 4
 
 Skyber (Mothman), Finel (Wendigo)
