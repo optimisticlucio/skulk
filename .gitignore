@@ -2,3 +2,6 @@ nandeck/export.png
 nandeck/export/*
 .vscode
 nandeck/nanDECK.ini
+
+custom-card-exporter/export
+custom-card-exporter/target
