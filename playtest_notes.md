@@ -8,12 +8,42 @@ It'll be written in reverse chronological order so the newest is higher up, maki
 
 ## Long-Term Notes
 
+- [16.12] A card with the possibility to bury in the starting deck is a terrible idea. You gain about one card per turn anyways, so the deck will consistently remain 8 cards and increasingly improve in quality.
 - [5.12] Conversely, if a card makes you hesitate whenever you play it, *even* in situations where it's technically the good play, redesign it. Cards shouldn't suck to play optimally.
 - [2.12] If a card elicits the "why wouldn't I ever get this" reaction, redesign it. Even if it's good, it shouldn't be blindingly good and fit for every situation.
 
 ---
 
 ## Playtest Notes
+
+### Dec 16th, Game 4
+
+Skyber (Mothman), Darth (Loveland)
+
+#### Notes
+
+- [ ] Poker Hand Time really sucks, it's the mothman ability but worse.
+- [ ] As cool as incessant chanting is, everyone is confused by it.
+
+### Dec 16th, Game 3
+
+Viivo (Flatwoods), Skyber (Loveland)
+
+#### Notes
+
+- [X] Massacre is too good. It doesn't need the bonus suspicion.
+- [X] Loveland Always Wins is kinda pointless.
+- [ ] Skyber is fucked in terms of luck man.
+- [ ] Power Word: Strength still sucks.
+
+### Dec 16th, Game 2
+
+Lucio (Wendigo), Viivo (Flatwoods)
+
+#### Notes
+
+- [ ] OLD HABITS IS WAY TOO FUCKIN GOOD
+- [ ] IT SINGLEHANDEDLY MADE WENDIGO BUSTED AS SHIT
 
 ### Dec 16th, Game 1
 
