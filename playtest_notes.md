@@ -15,6 +15,14 @@ It'll be written in reverse chronological order so the newest is higher up, maki
 
 ## Playtest Notes
 
+### Dec 16th, Game 1
+
+Lucio (Flatwoods), Viivo (Mothman)
+
+#### Notes
+
+- [ ] These two characters feel fairly balanced!
+
 ### Dec 11th, Game 2
 
 Lucio (Mothman), Rura (Loveland)

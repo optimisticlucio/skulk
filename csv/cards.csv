@@ -23,7 +23,7 @@ count,name,cost,alliance,img,description
 3,POKER HAND TIME,2,mothman,todo.webp,"If 4+ cards in the town have the same cost, place them on the bottom of the main deck, and inflict suspicion equal to the amount of cards."
 2,PLUCK FROM THE STREETS,3,mothman,todo.webp,Place a card from the graveyard on either the top or bottom of the main deck.
 3,FOLLOW THE LIGHT,5,mothman,turbo_moth.jpg,"When this card is acquired, bury this card, and acquire the top 3 cards of the main deck."
-2,BLINDING LIGHT,4,mothman,light_kira.png,"Bury a town card. You may continue to bury cards, as long as each successive card costs 1 Fear more than the previous. Inflict 1 suspicion for each card buried."
+2,BLINDING LIGHT,4,mothman,light_kira.png,"Bury a town card. You may continue to bury cards, as long as each successive card costs 1 Fear more than the previous. Inflict 1 suspicion for each card buried this way."
 1,WATCH THE GATES,,mothman,todo.webp,Look at the top 4 cards of the main deck. You may return them to the top or bottom of the deck in any order.
 5,EYES IN THE DARK,,mothman,eyes_in_the_dark_v2.png,Acquire 1 Fear.
 1,TRICK OF THE LIGHT,,mothman,trick_of_the_light.jpg,Inflict 1 Suspicion.
