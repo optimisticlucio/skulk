@@ -1,11 +1,11 @@
 count,name,cost,alliance,img,description
-3,FOLLOW MY VOICE,2,flatwoods,todo.webp,"Acquire a Drone, OR, acquire 1 Fear for every drone in your play area."
+3,FOLLOW MY VOICE,2,flatwoods,dunmesh_siren.jpg,"Acquire a Drone, OR, acquire 1 Fear for every drone in your play area."
 3,GIVE IN,2,flatwoods,todo.webp,"Bury a card in your discard pile, acquire a Drone."
 3,MARCHING ORDERS,4,flatwoods,todo.webp,"Draw three cards, discard two."
 3,HORDE,5,flatwoods,horde.jpg,"Acquire a Drone, OR, bury all Drones in your play area and inflict 2 suspicion for each."
-3,SCOUT,4,flatwoods,todo.webp,"Acquire a Drone, OR, draw a card for every Drone in your play area."
+3,SCOUT,4,flatwoods,makima_crows.jpg,"Acquire a Drone, OR, draw a card for every Drone in your play area."
 20,DRONE,,flatwoods,drone.png,Draw a card.
-1,REWIRE,,flatwoods,todo.webp,"Draw two cards, discard a card."
+1,REWIRE,,flatwoods,terminator_surgery.jpg,"Draw two cards, discard a card."
 1,SLAVES FOR CHEAP,,flatwoods,bugs_pulled_out.png,Acquire a Drone.
 5,UFO,,flatwoods,ufo.png,Acquire 1 Fear.
 1,CONSPIRACY THEORIST,,flatwoods,conspiracy_theorist.png,Inflict 1 Suspicion.
@@ -18,16 +18,16 @@ count,name,cost,alliance,img,description
 1,HALLUCINATIONS,,loveland,hallucinations.jpg,Inflict 1 Suspicion.
 1,LOVELAND ALWAYS WINS,,loveland,yea_baby.jpg,"If you rolled a 6 this turn: draw a card, inflict 2 suspicion, and gain 2 fear."
 1,TOIL AND TROUBLE,,loveland,toil_and_trouble.png,"Roll the die. Acquire Fear equal to half the roll's value, rounded down."
-2,INTRUDER,2,mothman,todo.webp,"Reveal the top card of the main deck, copy its effect, place it at the bottom of the deck."
+2,INTRUDER,2,mothman,twilight_edward.jpg,"Reveal the top card of the main deck, copy its effect, place it at the bottom of the deck."
 3,A TERRIBLE OMEN,2,mothman,hellboy_hung.jpg,Acquire a card that costs 4 or less.
 3,POKER HAND TIME,2,mothman,todo.webp,"If 4+ cards in the town have the same cost, place them on the bottom of the main deck, and inflict suspicion equal to the amount of cards."
 2,PLUCK FROM THE STREETS,3,mothman,todo.webp,Place a card from the graveyard on either the top or bottom of the main deck.
-3,FOLLOW THE LIGHT,5,mothman,todo.webp,"When this card is acquired, bury this card, and acquire the top 3 cards of the main deck."
+3,FOLLOW THE LIGHT,5,mothman,turbo_moth.jpg,"When this card is acquired, bury this card, and acquire the top 3 cards of the main deck."
 2,BLINDING LIGHT,4,mothman,light_kira.png,"Bury a town card. You may continue to bury cards, as long as each successive card costs 1 Fear more than the previous. Inflict 1 suspicion for each card buried."
 1,WATCH THE GATES,,mothman,todo.webp,Look at the top 4 cards of the main deck. You may return them to the top or bottom of the deck in any order.
 5,EYES IN THE DARK,,mothman,eyes_in_the_dark_v2.png,Acquire 1 Fear.
 1,TRICK OF THE LIGHT,,mothman,trick_of_the_light.jpg,Inflict 1 Suspicion.
-1,SCOUT PREY,,mothman,todo.webp,Copy the effect of a town card whose cost is 3 or less. 
+1,SCOUT PREY,,mothman,herobrine.jpg,Copy the effect of a town card whose cost is 3 or less. 
 3,HESITANT NEW FACES,1,neutral,worried_laughter.png,Acquire 1 Fear. You may bury a card from your hand to acquire 1 Fear.
 4,PATROL ROUND,1,neutral,security.jpg,"Draw two cards, discard two cards."
 4,INNOCENT CHILD,1,neutral,smiling_child.jpg,"Acquire 1 Fear. If buried, inflict 2 suspicion."
@@ -35,7 +35,7 @@ count,name,cost,alliance,img,description
 3,INFIGHTING,2,neutral,man_at_arms.jpg,Draw a card. You may discard it to draw another.
 4,NEGATIVITY BIAS,2,neutral,where_did_the_years_go.jpg,"Inflict 1 Suspicion. If you already inflicted this turn, inflict 1 more. "
 5,DOOMSAYER,3,neutral,homer_doomsayer.jpg,Acquire 2 Fear.
-3,MAKING A STATEMENT,3,neutral,league_of_gentlemen_mary_poppins.jpg,Discard a card to acquire 3 Fear.
+3,MAKING A STATEMENT,2,neutral,league_of_gentlemen_mary_poppins.jpg,Discard a card to acquire 3 Fear.
 3,SCOPOPHOBIA,3,neutral,makima_is_listening.jpg,Perform your character's ability without paying the suspicion cost.
 3,HERD MENTALITY,4,neutral,faceless_mob.jpg,Copy the effect of a card in your play area.
 5,MASKED MEN,4,neutral,the_purge.jpg,Inflict 2 Suspicion.
@@ -48,10 +48,10 @@ count,name,cost,alliance,img,description
 1,HYSTERIA,8,neutral,dd_affliction.webp,Inflict 4 suspicion.
 4,INSATIABLE HUNGER,1,wendigo,my_name_is_daryl.jpg,Acquire 1 Fear. Bury a card in your hand or discard pile.
 2,DEAD WEIGHT,2,wendigo,you_are_an_idiot.png,"When this card is acquired, place it in opponent's discard pile. Does nothing."
-4,"ERASE, REPLACE",4,wendigo,todo.webp,"Copy the effect of a card in your play area, then bury it."
+4,"ERASE, REPLACE",4,wendigo,your_eternal_reward.jpg,"Copy the effect of a card in your play area, then bury it."
 3,BACK FOR SECONDS,4,wendigo,todo.webp,"Choose a card in the Graveyard. Copy its effect, then place it at the bottom of the main deck."
 2,GRAVEROBBING,5,wendigo,deadpool_and_wolverine.png,Acquire 2 Fear. This turn you may buy a card from the graveyard as if it were a town card.
-5,CAUTIONARY TALES,,wendigo,todo.webp,Acquire 1 Fear.
+5,CAUTIONARY TALES,,wendigo,hellboy_heart.jpg,Acquire 1 Fear.
 1,PLANTED EVIDENCE,,wendigo,cartoon_severed_arm.jpg,Inflict 1 Suspicion.
-1,AFTERTASTE,,wendigo,todo.webp,Copy the effect of a random card in the graveyard.
+1,AFTERTASTE,,wendigo,krabs_defile.jpg,Copy the effect of a random card in the graveyard.
 1,OLD HABITS,,wendigo,todo.webp,"Bury a card in your play area and gain its Fear cost. If the card doesn't have a cost, gain 1 Fear."

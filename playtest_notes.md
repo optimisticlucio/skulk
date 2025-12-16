@@ -22,7 +22,7 @@ Lucio (Mothman), Rura (Loveland)
 #### Notes
 
 - [ ] Scopophobia is really good, maybe a little too good
-- [ ] Making a Statement is now weak
+- [X] Making a Statement is now weak
 - [ ] Follow the Light is still good
 - [ ] Loveland Always Wins is probably a little too weak
 - [ ] This game took REALLY long. Maybe make cards generally a little better to speed up average game length?
