@@ -22,8 +22,8 @@ Skyber (Mothman), Darth (Loveland)
 
 #### Notes
 
-- [ ] Poker Hand Time really sucks, it's the mothman ability but worse.
-- [ ] As cool as incessant chanting is, everyone is confused by it.
+- [X] Poker Hand Time really sucks, it's the mothman ability but worse.
+- [X] As cool as incessant chanting is, everyone is confused by it.
 
 ### Dec 16th, Game 3
 
@@ -34,7 +34,7 @@ Viivo (Flatwoods), Skyber (Loveland)
 - [X] Massacre is too good. It doesn't need the bonus suspicion.
 - [X] Loveland Always Wins is kinda pointless.
 - [ ] Skyber is fucked in terms of luck man.
-- [ ] Power Word: Strength still sucks.
+- [X] Power Word: Strength still sucks.
 
 ### Dec 16th, Game 2
 
@@ -42,7 +42,7 @@ Lucio (Wendigo), Viivo (Flatwoods)
 
 #### Notes
 
-- [ ] OLD HABITS IS WAY TOO FUCKIN GOOD
+- [X] OLD HABITS IS WAY TOO FUCKIN GOOD
 - [ ] IT SINGLEHANDEDLY MADE WENDIGO BUSTED AS SHIT
 
 ### Dec 16th, Game 1

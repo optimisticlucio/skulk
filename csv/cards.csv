@@ -9,18 +9,18 @@ count,name,cost,alliance,img,description
 1,SLAVES FOR CHEAP,,flatwoods,bugs_pulled_out.png,Acquire a Drone.
 5,UFO,,flatwoods,ufo.png,Acquire 1 Fear.
 1,CONSPIRACY THEORIST,,flatwoods,conspiracy_theorist.png,Inflict 1 Suspicion.
-3,POWER WORD: STRENGTH,2,loveland,hellboy_crown.jpg,"Play this card after any die roll, before the effect happens. Ignore the current roll's result, and roll the die again."
+3,POWER WORD: STRENGTH,4,loveland,hellboy_crown.jpg,"Gain Fear equal to the result of the last dice roll. If no dice were rolled this game, that's a shame."
 3,THE GREAT AND POWERFUL,2,loveland,hellboy_rasputin.jpg,"Roll the die. If 5 or more, acquire 6 Fear. Otherwise, that sucks."
 3,POWER WORD: CURSE,3,loveland,shadow_word_pain.jpg,"Name a number, roll the die. If you roll lower, self-inflict the named amount of suspicion. Otherwise, inflict the named amount."
 3,POWER WORD: MISSILE,4,loveland,casting_couch.png,"Roll the Die. If 3 or more, inflict 4 suspicion. Otherwise, self-inflict 3 suspicion."
-3,INCESSANT CHANTING,6,loveland,incessant_chanting.jpg,Roll the die until the sum of the rolls is higher than the current suspicion meter. Draw a card for each roll you did.
+3,INCESSANT CHANTING,6,loveland,incessant_chanting.jpg,Roll the die until the sum of the rolls' results is higher than the current suspicion meter. Draw a card for every time you rolled the dice this way.
 5,ARCANE WHISPERS,,loveland,ponder_my_cube.png,Acquire 1 Fear.
 1,HALLUCINATIONS,,loveland,hallucinations.jpg,Inflict 1 Suspicion.
 1,LOVELAND ALWAYS WINS,,loveland,yea_baby.jpg,"The next time you're tasked with rolling the dice this turn, roll the dice twice, and use the higher result as the result of your roll."
 1,TOIL AND TROUBLE,,loveland,toil_and_trouble.png,"Roll the die. Acquire Fear equal to half the roll's value, rounded up."
 2,INTRUDER,2,mothman,twilight_edward.jpg,"Reveal the top card of the main deck, copy its effect, place it at the bottom of the deck."
 3,A TERRIBLE OMEN,2,mothman,hellboy_hung.jpg,Acquire a card that costs 4 or less.
-3,POKER HAND TIME,2,mothman,todo.webp,"If 4+ cards in the town have the same cost, place them on the bottom of the main deck, and inflict suspicion equal to the amount of cards."
+3,SELECTIVE ENTRY,2,mothman,todo.webp,"Look at the top card of the Main Deck, you may return it to the top or bottom of the deck. Bury a Town card."
 2,PLUCK FROM THE STREETS,3,mothman,todo.webp,Place a card from the graveyard on either the top or bottom of the main deck.
 3,FOLLOW THE LIGHT,5,mothman,turbo_moth.jpg,"When this card is acquired, bury this card, and acquire the top 3 cards of the main deck."
 2,BLINDING LIGHT,4,mothman,light_kira.png,"Bury a town card. You may continue to bury cards, as long as each successive card costs 1 Fear more than the previous. Inflict 1 suspicion for each card buried this way."
@@ -54,4 +54,4 @@ count,name,cost,alliance,img,description
 5,CAUTIONARY TALES,,wendigo,hellboy_heart.jpg,Acquire 1 Fear.
 1,PLANTED EVIDENCE,,wendigo,cartoon_severed_arm.jpg,Inflict 1 Suspicion.
 1,AFTERTASTE,,wendigo,krabs_defile.jpg,Copy the effect of a random card in the graveyard.
-1,OLD HABITS,,wendigo,todo.webp,"Gain 1 Fear. If this card is buried, draw two cards."
+1,OLD HABITS,,wendigo,todo.webp,"Inflict 1 Suspicion. If this card is buried, draw two cards."
