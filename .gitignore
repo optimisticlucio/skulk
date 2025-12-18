@@ -3,5 +3,5 @@ nandeck/export/*
 .vscode
 nandeck/nanDECK.ini
 
-custom-card-exporter/export
+custom-card-exporter/output
 custom-card-exporter/target
