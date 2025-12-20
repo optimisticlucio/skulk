@@ -16,6 +16,34 @@ It'll be written in reverse chronological order so the newest is higher up, maki
 
 ## Playtest Notes
 
+### Dec 20th, Game 3
+
+Darth (Loveland), Skyber (Flatwoods)
+
+#### Notes
+
+- [X] Flatwoods Monster ability shouldn't be able to inflict suspicion
+- [X] Loveland gets a lot of fear but is unable to use it
+- [ ] Both Horde & Pitchforks and Torches may be redundant
+
+### Dec 20th, Game 2
+
+Darth (Loveland), Lucio (Flatwoods)
+
+#### Notes
+
+- [ ] Darth liked that the character cards say where the deck and discard pile should be
+- [ ] Loveland Always Wins is fun :)
+
+### Dec 20th, Game 1
+
+Skyber (Loveland), Lucio (Wendigo)
+
+#### Notes
+
+- [ ] Incessant Chanting is a little too expensive
+- [ ] Note that Loveland keeps the die face up, and reword Power Word: Strength
+
 ### Dec 16th, Game 4
 
 Skyber (Mothman), Darth (Loveland)

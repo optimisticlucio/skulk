@@ -46,7 +46,7 @@ pub struct CharacterAssociation {
 impl Default for CharacterAssociation {
     fn default() -> Self {
         Self {
-            name: "town".to_string(),
+            name: "neutral".to_string(),
             hex_color: "#C8B898".to_string(),
             icon: "UNDEFINED".to_string()
         }

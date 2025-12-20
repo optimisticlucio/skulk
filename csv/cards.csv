@@ -9,7 +9,7 @@ count,name,cost,alliance,img,description
 1,SLAVES FOR CHEAP,,flatwoods,bugs_pulled_out.png,Acquire a Drone.
 5,UFO,,flatwoods,ufo.png,Acquire 1 Fear.
 1,CONSPIRACY THEORIST,,flatwoods,conspiracy_theorist.png,Inflict 1 Suspicion.
-3,POWER WORD: STRENGTH,3,loveland,hellboy_crown.jpg,"Gain Fear equal to the result of the last dice roll. If no dice were rolled this game, that's a shame."
+3,POWER WORD: STRENGTH,4,loveland,hellboy_crown.jpg,"Discard all of your Fear. Inflict 1 suspicion for every 3 Fear discarded this way."
 3,THE GREAT AND POWERFUL,2,loveland,hellboy_rasputin.jpg,"Roll the die. If 5 or more, acquire 6 Fear. Otherwise, that sucks."
 3,POWER WORD: CURSE,3,loveland,shadow_word_pain.jpg,"Name a number, roll the die. If you roll lower, self-inflict the named amount of suspicion. Otherwise, inflict the named amount."
 3,POWER WORD: MISSILE,4,loveland,casting_couch.png,"Roll the Die. If 3 or more, inflict 4 suspicion. Otherwise, self-inflict 3 suspicion."

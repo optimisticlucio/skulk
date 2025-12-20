@@ -1,5 +1,5 @@
-use std::{collections::HashMap, fs::File, path::PathBuf};
-use resvg::{usvg, tiny_skia};
+use std::{collections::HashMap, fs::File, io::Write, path::PathBuf};
+
 
 use custom_card_exporter::{adjust_template_to_association, implement_card_in_template, read_card_template, structs::{Card, Character, CharacterAssociation}};
 
@@ -32,7 +32,11 @@ fn main() {
 
     for card in cards {
         let cardname = card.name.clone();
-        let implemented_card = implement_card_in_template(card_template.clone(), card);
+
+        let relevant_template = association_name_to_template.get(&card.association)
+            .unwrap_or_else(|| panic!("Invalid Association on card {}.", &cardname));
+            
+        let implemented_card = implement_card_in_template(relevant_template.clone(), card);
         
         println!("Writing SVG into buffer...");
 
@@ -40,31 +44,18 @@ fn main() {
         let mut svg_write_buffer: Vec<u8> = Vec::new();
         implemented_card.write(&mut svg_write_buffer).expect("Writing into buffer failed");
 
-        println!("Writing buffer into string...");
+        //println!("Writing buffer into string...");
 
         // Buffer into string
-        let svg_str = String::from_utf8(svg_write_buffer).expect("Invalid UTF-8");
+        // let svg_str = String::from_utf8(svg_write_buffer).expect("Invalid UTF-8");
 
-        println!("Parsing into usvg tree..");
+        println!("Writing Buffer into File...");
 
-        // Parse into usvg tree
-        let mut opt = usvg::Options::default();
-        opt.resources_dir = Some(PathBuf::from("assets"));
-        let tree = usvg::Tree::from_str(&svg_str, &opt).unwrap();
+        let mut new_file = File::create(format!("output/{}.svg", &cardname))
+            .unwrap_or_else(|err| panic!("Failed creating card SVG for card {}: {}", &cardname, err));
 
-
-        // Render to pixmap
-        let pixmap_size = tree.size().to_int_size();
-
-        println!("Rendering into pixmap as {}X{}...", &pixmap_size.width(), &pixmap_size.height());
-        
-        let mut pixmap = tiny_skia::Pixmap::new(pixmap_size.width(), pixmap_size.height()).unwrap();
-
-        resvg::render(&tree, usvg::Transform::default(), &mut pixmap.as_mut());
-
-        println!("Exporting!");
-        // Save or use the pixmap
-        pixmap.save_png(format!("output/{}.png", cardname.to_ascii_lowercase())).unwrap();
+        new_file.write_all(&svg_write_buffer)
+            .unwrap_or_else(|err| panic!("Failed writing card SVG for card {}: {}", &cardname, err));
     }
 
     println!("Done!");
