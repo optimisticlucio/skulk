@@ -16,6 +16,26 @@ It'll be written in reverse chronological order so the newest is higher up, maki
 
 ## Playtest Notes
 
+### Dec 21st, Game 2
+
+Viivo (Wendigo), Lucio (Flatwoods)
+
+#### Notes
+
+- [ ] Yeah wendigo might be a little strong.
+- [ ] That, or Flatwoods' ability is a little weak bc it's limited to Drones and involves burying them, which you NEED.
+- [ ] Scopophobia is GOOD
+
+### Dec 21st, Game 1
+
+Viivo (Wendigo), Lucio (Flatwoods)
+
+#### Notes
+
+- [X] Erase, Replace is a little weak. The cards you'd want to copy are not the ones you'd want to erase.
+- [X] Add "the" to Dead Weight's description
+- [ ] The added Inflict 1 Suspicion to Wendigo may be a *little* too good as an early game aggro. Might also have been Viivo going aggressive right out the gate and getting lucky early.
+
 ### Dec 20th, Game 3
 
 Darth (Loveland), Skyber (Flatwoods)

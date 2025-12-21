@@ -47,8 +47,8 @@ count,name,cost,alliance,img,description
 1,BIG MONEY,7,neutral,todo.webp,"Acquire a town card for free, place it at the top of your deck."
 1,HYSTERIA,8,neutral,dd_affliction.webp,Inflict 4 suspicion.
 4,INSATIABLE HUNGER,1,wendigo,my_name_is_daryl.jpg,Acquire 1 Fear. Bury a card in your hand or discard pile.
-2,DEAD WEIGHT,2,wendigo,you_are_an_idiot.png,"When this card is acquired, place it in opponent's discard pile. Does nothing."
-4,"ERASE, REPLACE",4,wendigo,your_eternal_reward.jpg,"Copy the effect of a card in your play area, then bury it."
+2,DEAD WEIGHT,2,wendigo,you_are_an_idiot.png,"When this card is acquired, place it in the opponent's discard pile. Does nothing."
+4,"ERASE, REPLACE",2,wendigo,your_eternal_reward.jpg,"Copy the effect of a card in your play area, then bury it."
 3,BACK FOR SECONDS,4,wendigo,todo.webp,"Choose a card in the Graveyard. Copy its effect, then place it at the bottom of the main deck."
 2,GRAVEROBBING,5,wendigo,deadpool_and_wolverine.png,Acquire 2 Fear. This turn you may buy a card from the graveyard as if it were a town card.
 5,CAUTIONARY TALES,,wendigo,hellboy_heart.jpg,Acquire 1 Fear.
