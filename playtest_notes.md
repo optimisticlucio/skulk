@@ -24,7 +24,7 @@ Viivo (Wendigo), Lucio (Flatwoods)
 
 - [ ] Yeah wendigo might be a little strong.
 - [ ] That, or Flatwoods' ability is a little weak bc it's limited to Drones and involves burying them, which you NEED.
-- [ ] Scopophobia is GOOD
+- [X] Scopophobia is GOOD
 
 ### Dec 21st, Game 1
 

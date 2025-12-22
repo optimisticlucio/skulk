@@ -1,5 +1,5 @@
 name,image,modifier,ability-cost,ability,association_name,association_icon,association_hex_color
 Wendigo,wendigo.png,,2,"Bury a Town Card. If now there's at least 5 cards in the graveyard, also gain 2 fear. If 9 cards, also draw two cards. If 13, also inflict 2 suspicion. If 17, Inflict 2 more.",wendigo,,#34274C
 Mothman,mothman.png,,2,"Pick a number. Bury all town cards with that cost, then based on the amount buried: (1,2) Gain 2 Fear, (3) Gain 4, (4) Inflict 5 Suspicion, (5) Inflict 8, (6) Inflict 10.",mothman,,#75052A
-Flatwoods Monster,flatwoods.png,"At the start of the game, shuffle the drone deck and place it face-down near the shop. Whenever a drone is buried, return it to the drone deck.",0,"Bury a Drone in your play area to: Draw 2 Cards OR gain 3 Fear.",flatwoods,,#166757
-Loveland Frogman,loveland.png,"At the start of the game, take your Magic Die and place it in a convenient location.",1,"Roll the die. If it lands on 1, self-inflict 2 Suspicion. 2-4, get that amount of Fear. 5-6, draw two cards.",loveland,,#994F1A
+Flatwoods Monster,flatwoods.png,"At the start of the game, shuffle the drone deck and place it face-down near the shop. Whenever a drone is buried, return it to the drone deck.",0,Bury a Drone in your play area to: Draw 2 Cards OR gain 3 Fear.,flatwoods,,#166757
+Loveland Frogman,loveland.png,"At the start of the game, take your Magic Die and place it in a convenient location.",1,"Roll the Magic Die. If it lands on 1, self-inflict 2 Suspicion. 2-4, get that amount of Fear. 5-6, draw two cards.",loveland,,#994F1A
