@@ -67,3 +67,9 @@ There are mechanics which are mentioned often in cards, or were mentioned before
 ## Play Example
 
 `TODO, probably better with visuals`
+
+## Tips & Notes
+
+- **Do not be afraid to get rid of cards!** Gaining more cards might seem like the most obvious way to win: the more strong cards I have, the better my deck, and the better my chances of winning. But it's not just *how many* good cards you have, it's how often you *draw* them. Get rid of your weaker cards, and the cards you draw will get better over time!
+
+`TODO, Think of more examples`
