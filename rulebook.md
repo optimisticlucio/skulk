@@ -48,10 +48,10 @@ Each character has a unique **Ability** listed on their character card. The abil
 
 Once you deem you've done enough, you may **end your turn.** When your turn ends:
 
-- discard all cards in your Play Area,
-- discard all of the cards in your hand,
-- discard all of your Fear,
-- and draw 5 cards from your deck.
+1. Discard all of the cards in your Play Area.
+2. Discard all of the cards in your hand.
+3. Discard all of your Fear.
+4. Draw 5 cards from your deck.
 
 ## Mechanics
 
@@ -70,6 +70,6 @@ There are mechanics which are mentioned often in cards, or were mentioned before
 
 ## Tips & Notes
 
-- **Do not be afraid to get rid of cards!** Gaining more cards might seem like the most obvious way to win: the more strong cards I have, the better my deck, and the better my chances of winning. But it's not just *how many* good cards you have, it's how often you *draw* them. Get rid of your weaker cards, and the cards you draw will get better over time!
+- **Do not be afraid to get rid of cards!** Acquiring more cards might seem like the most obvious way to win: the more strong cards I have, the better my deck, and the better my chances of winning. But it's not just *how many* good cards you have, it's how often you *draw* them. Get rid of your weaker cards, and the cards you draw will get better over time!
 
 `TODO, Think of more examples`

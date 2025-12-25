@@ -1,7 +1,7 @@
 count,name,cost,alliance,img,description
 3,FOLLOW MY VOICE,2,flatwoods,dunmesh_siren.jpg,"Acquire a Drone, OR, acquire 1 Fear for every drone in your play area."
-3,GIVE IN,2,flatwoods,todo.webp,"Bury a card in your discard pile, acquire a Drone."
-3,MARCHING ORDERS,4,flatwoods,todo.webp,"Draw three cards, discard two."
+3,GIVE IN,2,flatwoods,makima_eye.jpg,"Bury a card in your discard pile, acquire a Drone."
+3,EYES EVERYWHERE,4,flatwoods,inception_crowd.jpg,"Draw three cards, discard two."
 3,SCOUT,4,flatwoods,makima_crows.jpg,"Acquire a Drone, OR, draw a card for every Drone in your play area."
 3,HORDE,5,flatwoods,horde.jpg,"Acquire a Drone, OR, bury all Drones in your play area and inflict 2 suspicion for each."
 20,DRONE,,flatwoods,drone.png,Draw a card.
@@ -20,8 +20,8 @@ count,name,cost,alliance,img,description
 1,TOIL AND TROUBLE,,loveland,toil_and_trouble.png,"Roll the Magic Die. Acquire Fear equal to half the roll's value, rounded up."
 2,INTRUDER,2,mothman,twilight_edward.jpg,"Reveal the top card of the main deck, copy its effect, place it at the bottom of the deck."
 3,A TERRIBLE OMEN,2,mothman,hellboy_hung.jpg,Acquire a card that costs 4 or less.
-3,SELECTIVE ENTRY,2,mothman,todo.webp,"Look at the top card of the Main Deck, you may return it to the top or bottom of the deck. Bury a Town card."
-2,PLUCK FROM THE STREETS,3,mothman,todo.webp,Place a card from the graveyard on either the top or bottom of the main deck.
+3,SELECTIVE ENTRY,2,mothman,selection_song.jpg,"Look at the top card of the Main Deck, you may return it to the top or bottom of the deck. Bury a Town card."
+2,PLUCK FROM THE STREETS,3,mothman,mii_grabbed.jpg,Place a card from the graveyard on either the top or bottom of the main deck.
 2,BLINDING LIGHT,4,mothman,light_kira.png,"Bury a town card. You may continue to bury cards, as long as each successive card costs 1 Fear more than the previous. Inflict 1 suspicion for each card buried this way."
 3,FOLLOW THE LIGHT,5,mothman,turbo_moth.jpg,"When this card is acquired, bury this card, and acquire the top 3 cards of the main deck."
 1,WATCH THE GATES,,mothman,toy_story_monkey.jpg,Look at the top 4 cards of the main deck. You may return them to the top or bottom of the deck in any order.
@@ -44,7 +44,7 @@ count,name,cost,alliance,img,description
 1,AS IT WAS WRITTEN,6,neutral,dune_prophecy.jpg,Inflict 2 suspicion. Place a card from your discard pile in your hand.
 2,MASSACRE,7,neutral,watchmen_ending.jpg,Inflict 3 Suspicion. You may bury up to 2 cards in your discard pile.
 1,BLIND ADRENALINE,7,neutral,adrenaline.webp,Draw three cards.
-1,BIG MONEY,7,neutral,wario_gold.jpg,"Acquire a town card for free, place it at the top of your deck."
+1,REIGN OF FEAR,7,neutral,dr_facilier_death.jpg,"Acquire a town card for free, place it at the top of your deck."
 1,HYSTERIA,8,neutral,dd_affliction.webp,Inflict 4 suspicion.
 4,INSATIABLE HUNGER,1,wendigo,my_name_is_daryl.jpg,Acquire 1 Fear. Bury a card in your hand or discard pile.
 2,DEAD WEIGHT,2,wendigo,you_are_an_idiot.png,"When this card is acquired, place it in the opponent's discard pile. Does nothing."
