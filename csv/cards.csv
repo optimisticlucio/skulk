@@ -31,11 +31,11 @@ count,name,cost,alliance,img,description
 3,HESITANT NEW FACES,1,neutral,worried_laughter.png,Acquire 1 Fear. You may bury a card from your hand to acquire 1 Fear.
 4,INNOCENT CHILD,1,neutral,smiling_child.jpg,"Acquire 1 Fear. If buried, inflict 2 suspicion."
 2,CLOSE YOUR BLINDS,1,neutral,half_open_blinds.jpg,"Bury this card, draw two cards."
-4,PATROL ROUND,1,neutral,security.jpg,"Draw two cards, discard two cards."
+4,PATROL ROUND,1,neutral,patrol_rounds_sketch.png,"Draw two cards, discard two cards."
 3,INFIGHTING,2,neutral,man_at_arms.jpg,Draw a card. You may discard it to draw another.
-4,NEGATIVITY BIAS,2,neutral,where_did_the_years_go.jpg,"Inflict 1 Suspicion. If you already inflicted this turn, inflict 1 more. "
+4,NEGATIVITY BIAS,2,neutral,negativity_bias_sketch.png,"Inflict 1 Suspicion. If you already inflicted this turn, inflict 1 more. "
 3,MAKING A STATEMENT,2,neutral,league_of_gentlemen_mary_poppins.jpg,Discard a card to acquire 3 Fear.
-5,DOOMSAYER,3,neutral,homer_doomsayer.jpg,Acquire 2 Fear.
+5,DOOMSAYER,3,neutral,doomsayer_sketch.png,Acquire 2 Fear.
 3,SCOPOPHOBIA,4,neutral,makima_is_listening.jpg,Perform your character's ability without paying the suspicion cost.
 3,HERD MENTALITY,4,neutral,faceless_mob.jpg,Copy the effect of a card in your play area.
 5,MASKED MEN,4,neutral,the_purge.jpg,Inflict 2 Suspicion.
