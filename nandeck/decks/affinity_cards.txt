@@ -1,0 +1,9 @@
+LINKMULCOPY=OFF
+LINKMULTI=count
+LINK=..\..\csv\cards.csv
+
+;Card Art
+IMAGE=,"../../final_cards/[exported_card_name]",0%,0%,100%,100%,0,C
+
+
+DISPLAY="..\export\final_deck{§}.png",,,10x7
