@@ -16,6 +16,31 @@ It'll be written in reverse chronological order so the newest is higher up, maki
 
 ## Playtest Notes
 
+### Jan 5th, Game 4
+
+Viivo (Loveland), Lucio (Flatwoods)
+
+#### Notes
+
+- [X] Buff Power Word: Strength
+- [X] Incessent Chanting is a little weak
+
+### Jan 5th, Game 3
+
+Viivo (Loveland), Lucio (Flatwoods)
+
+### Jan 5th, Game 2
+
+Viivo (Wendigo), Lucio (Flatwoods)
+
+### Jan 5th, Game 1
+
+Viivo (Wendigo), Lucio (Mothman)
+
+#### Notes
+
+- [X] Wendigo should snowball slower
+
 ### Dec 21st, Game 2
 
 Viivo (Wendigo), Lucio (Flatwoods)

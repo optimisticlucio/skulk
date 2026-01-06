@@ -11,9 +11,9 @@ count,name,cost,alliance,exported_card_name,img,description
 1,CONSPIRACY THEORIST,,flatwoods,flatwoods_10.png,conspiracy_theorist.png,Inflict 1 Suspicion.
 3,THE GREAT AND POWERFUL,2,loveland,loveland_1.png,the_great_and_powerful_v1.png,"Roll the Magic Die. If 5 or more, acquire 6 Fear. Otherwise, that sucks."
 3,POWER WORD: CURSE,3,loveland,loveland_2.png,shadow_word_pain.jpg,"Name a number, roll the Magic Die. If you roll lower, self-inflict the named amount of suspicion. Otherwise, inflict the named amount."
-3,POWER WORD: STRENGTH,4,loveland,loveland_3.png,hellboy_crown.jpg,Discard all of your Fear. Inflict 1 suspicion for every 3 Fear discarded this way.
+3,POWER WORD: STRENGTH,4,loveland,loveland_3.png,hellboy_crown.jpg,Discard all of your Fear. Inflict 1 suspicion for every 2 Fear discarded this way.
 3,POWER WORD: MISSILE,4,loveland,loveland_4.png,casting_couch.png,"Roll the Magic Die. If 3 or more, inflict 4 suspicion. Otherwise, self-inflict 3 suspicion."
-3,INCESSANT CHANTING,6,loveland,loveland_5.png,incessant_chanting.jpg,Roll the Magic Die until the sum of the rolls' results is higher than the current suspicion meter. Draw a card for every time you rolled the die this way.
+3,INCESSANT CHANTING,5,loveland,loveland_5.png,incessant_chanting.jpg,Roll the Magic Die until the sum of the rolls' results is higher than the current suspicion meter. Draw a card for every time you rolled the die this way.
 5,ARCANE WHISPERS,,loveland,loveland_6.png,ponder_my_cube.png,Acquire 1 Fear.
 1,HALLUCINATIONS,,loveland,loveland_7.png,hallucinations.jpg,Inflict 1 Suspicion.
 1,LOVELAND ALWAYS WINS,,loveland,loveland_8.png,yea_baby.jpg,"The next time you're tasked with rolling the Magic Die this turn, roll it twice, and use the higher result as the result of your roll."
@@ -39,7 +39,7 @@ count,name,cost,alliance,exported_card_name,img,description
 3,SCOPOPHOBIA,4,neutral,town_9.png,makima_is_listening.jpg,Perform your character's ability without paying the suspicion cost.
 3,HERD MENTALITY,4,neutral,town_10.png,faceless_mob.jpg,Copy the effect of a card in your play area.
 5,MASKED MEN,4,neutral,town_11.png,the_purge.jpg,Inflict 2 Suspicion.
-2,PITCHFORKS AND TORCHES,5,neutral,town_12.png,simpsons_pitchforks.jpg,"For every two cards you've played this turn, inflict suspicion."
+2,PITCHFORKS AND TORCHES,5,neutral,town_12.png,simpsons_pitchforks.jpg,"For every two cards in your play area, including this one, inflict suspicion."
 3,REVEL IN INFAMY,5,neutral,town_13.png,batman.jpg,"If the suspicion meter is aimed at you, acquire fear equal to the meter's value. Else, inflict 2 suspicion."
 1,AS IT WAS WRITTEN,6,neutral,town_14.png,dune_prophecy.jpg,Inflict 2 suspicion. Place a card from your discard pile in your hand.
 2,MASSACRE,7,neutral,town_15.png,watchmen_ending.jpg,Inflict 3 Suspicion. You may bury up to 2 cards in your discard pile.
