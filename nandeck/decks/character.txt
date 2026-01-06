@@ -2,7 +2,7 @@ LINKMULCOPY=OFF
 LINK=..\..\csv\characters.csv
 
 ;Character cards are sideways
-CARDSIZE=9,6
+CARDSIZE=12,8
 
 ;Character Art
 IMAGE=,"../../img/character_card/[image]",40%,0%,60%,100%,0,C
@@ -14,29 +14,29 @@ RECTANGLE=,0,0,100%,100%,#000000#FFFFFF@90
 ENDLAYER
 
 ;Character Name
-FONT=Inter,11,TB,#000000
+FONT=Inter,16,TB,#000000
 TEXT=,[NAME],15%,15%,50%,10%,LEFT,WWTOP
 
 ;Character Ability
-FONT=Inter,7,TB,#000000
+FONT=Inter,10,TB,#000000
 TEXT=,"Ability: [ABILITY-COST] Suspicion",15%,28%,50%,8%,LEFT,WWTOP
 
-FONT=Inter,5.5,TB,#000000
+FONT=Inter,8,TB,#000000
 TEXT=,[ABILITY],15%,34%,50%,20%,LEFT,WWTOP
 
 ;Character Modifier
 IF=[MODIFIER]<>""
 
-FONT=Inter,7,TB,#000000
+FONT=Inter,10,TB,#000000
 TEXT=,"Modifier",15%,54%,50%,8%,LEFT,WWTOP
 
-FONT=Inter,5.5,TB,#000000
+FONT=Inter,8,TB,#000000
 TEXT=,[MODIFIER],15%,59%,45%,20%,LEFT,WWTOP
 
 ENDIF
 
 ;Thingy Fonts
-FONT=Inter,11,TB,#000000
+FONT=Inter,12,TB,#000000
 [THINGY_WIDTH] = 10%
 [THINGY_HEIGHT] = 50%
 
