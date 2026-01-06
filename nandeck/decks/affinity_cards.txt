@@ -2,6 +2,9 @@ LINKMULCOPY=OFF
 LINKMULTI=count
 LINK=..\..\csv\cards.csv
 
+CARDSIZE=6.35,8.89
+MARGINS=0.5,0.5,0.5,0.5
+
 ;Card Art
 IMAGE=,"../../final_cards/[exported_card_name]",0%,0%,100%,100%,0,C
 
