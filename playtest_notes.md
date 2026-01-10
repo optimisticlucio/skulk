@@ -16,6 +16,38 @@ It'll be written in reverse chronological order so the newest is higher up, maki
 
 ## Playtest Notes
 
+### Jan 10th, Game 6
+
+Darth (Loveland), Skyber (Flatwoods)
+
+### Jan 10th, Game 5
+
+Viivo (Mothman), Lucio (Windigo)
+
+### Jan 10th, Game 4
+
+Viivo (Mothman), Lucio (Windigo)
+
+### Jan 10th, Game 3
+
+Darth (Windigo), Viivo (Loveland)
+
+### Jan 10th, Game 2
+
+Darth (Loveland), Lucio (Flatwoods)
+
+#### Notes
+
+- [ ] Power Word: Missile might be a touch expensive.
+
+### Jan 10th, Game 1
+
+Darth (Loveland), Lucio (Mothman)
+
+#### Notes
+
+- [ ] Blinding Light might be a little strong.
+
 ### Jan 5th, Game 4
 
 Viivo (Loveland), Lucio (Flatwoods)
