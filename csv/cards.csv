@@ -11,7 +11,7 @@ count,name,cost,alliance,exported_card_name,img,description
 1,CONSPIRACY THEORIST,,flatwoods,flatwoods_10.png,conspiracy_theorist.png,Inflict 1 Suspicion.
 3,THE GREAT AND POWERFUL,4,loveland,loveland_1.png,the_great_and_powerful_v1.png,Discard all of your Fear. Inflict 1 suspicion for every 2 Fear discarded this way.
 3,POWER WORD: CURSE,3,loveland,loveland_2.png,shadow_word_pain.jpg,"Name a number, roll the Magic Die. If you roll lower, self-inflict the named amount of suspicion. Otherwise, inflict the named amount."
-3,POWER WORD: STRENGTH,3,loveland,loveland_3.png,hellboy_crown.jpg,Roll the Magic Die. Reveal a number of cards from the top of the deck equal to the die's value. You may or may not purchase one. Bury the rest.
+3,POWER WORD: STRENGTH,3,loveland,loveland_3.png,hellboy_crown.jpg,Roll the Magic Die. Reveal a number of cards from the top of the deck equal to the die's value. You may or may not purchase one. Place the rest at the bottom of the deck.
 3,POWER WORD: MISSILE,5,loveland,loveland_4.png,casting_couch.png,Discard the top card of your deck. Inflict suspicion equal to its cost.
 3,INCESSANT CHANTING,2,loveland,loveland_5.png,incessant_chanting.jpg,"Discard any amount of Fear, then roll the Magic Die. If you roll lower than the amount discarded: draw a card, and you may repeat this effect."
 5,ARCANE WHISPERS,,loveland,loveland_6.png,ponder_my_cube.png,Acquire 1 Fear.
