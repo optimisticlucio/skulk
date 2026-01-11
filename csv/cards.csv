@@ -51,7 +51,7 @@ count,name,cost,alliance,exported_card_name,img,description
 4,"ERASE, REPLACE",2,wendigo,windigo_3.png,your_eternal_reward.jpg,"Copy the effect of a card in your play area, then bury it."
 3,BACK FOR SECONDS,4,wendigo,windigo_4.png,cheese_jerry.jpg,"Choose a card in the Graveyard. Copy its effect, then place it at the bottom of the main deck."
 2,GRAVEROBBING,5,wendigo,windigo_5.png,deadpool_and_wolverine.png,Acquire 2 Fear. This turn you may buy a card from the graveyard as if it were a town card.
-5,CAUTIONARY TALES,,wendigo,windigo_6.png,hellboy_heart.jpg,Acquire 1 Fear.
+5,HOWLING WINDS,,wendigo,windigo_6.png,howling_winds_sketch.png,Acquire 1 Fear.
 1,PLANTED EVIDENCE,,wendigo,windigo_7.png,cartoon_severed_arm.jpg,Inflict 1 Suspicion.
 1,AFTERTASTE,,wendigo,windigo_8.png,krabs_defile.jpg,Copy the effect of a random card in the graveyard.
 1,OLD HABITS,,wendigo,windigo_9.png,it_feels_so_good.jpg,"Inflict 1 Suspicion. If this card is buried, draw two cards."
