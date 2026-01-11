@@ -49,8 +49,8 @@ count,name,cost,alliance,exported_card_name,img,description
 4,INSATIABLE HUNGER,1,wendigo,windigo_1.png,my_name_is_daryl.jpg,Acquire 1 Fear. Bury a card in your hand or discard pile.
 2,DEAD WEIGHT,2,wendigo,windigo_2.png,you_are_an_idiot.png,"When this card is acquired, place it in the opponent's discard pile. Does nothing."
 4,"ERASE, REPLACE",2,wendigo,windigo_3.png,your_eternal_reward.jpg,"Copy the effect of a card in your play area, then bury it."
-3,BACK FOR SECONDS,4,wendigo,windigo_4.png,cheese_jerry.jpg,"Choose a card in the Graveyard. Copy its effect, then place it at the bottom of the main deck."
-2,GRAVEROBBING,5,wendigo,windigo_5.png,deadpool_and_wolverine.png,Acquire 2 Fear. This turn you may buy a card from the graveyard as if it were a town card.
+3,BACK FOR SECONDS,4,wendigo,windigo_4.png,back_for_seconds.png,"Choose a card in the Graveyard. Copy its effect, then place it at the bottom of the main deck."
+2,DEAD MAN'S LAND,5,wendigo,windigo_5.png,deadpool_and_wolverine.png,Acquire 2 Fear. This turn you may buy a card from the graveyard as if it were a town card.
 5,HOWLING WINDS,,wendigo,windigo_6.png,howling_winds_sketch.png,Acquire 1 Fear.
 1,PLANTED EVIDENCE,,wendigo,windigo_7.png,cartoon_severed_arm.jpg,Inflict 1 Suspicion.
 1,AFTERTASTE,,wendigo,windigo_8.png,krabs_defile.jpg,Copy the effect of a random card in the graveyard.
