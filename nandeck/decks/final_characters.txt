@@ -1,0 +1,14 @@
+LINKMULCOPY=OFF
+LINK=..\..\csv\characters.csv
+
+;Character cards are sideways
+CARDSIZE=18,11
+
+;Character Art
+IMAGE=,"../../character_cards/[final_card]",0%,0%,100%,100%,0,C
+
+;Nice Shadowy Gradient
+
+DISPLAY="..\export\character{§}.png",,,2x2
+
+GAP=0.1, 0.1
