@@ -14,9 +14,9 @@ count,name,cost,alliance,exported_card_name,img,description
 3,POWER WORD: STRENGTH,3,loveland,loveland_3.png,hellboy_crown.jpg,Roll the Magic Die. Reveal a number of cards from the top of the deck equal to the die's value. You may or may not purchase one. Place the rest at the bottom of the deck.
 3,POWER WORD: MISSILE,5,loveland,loveland_4.png,casting_couch.png,Discard the top card of your deck. Inflict suspicion equal to its cost.
 3,INCESSANT CHANTING,2,loveland,loveland_5.png,incessant_chanting.jpg,"Discard any amount of Fear, then roll the Magic Die. If you roll lower than the amount discarded: draw a card, and you may repeat this effect."
-5,ARCANE WHISPERS,,loveland,loveland_6.png,ponder_my_cube.png,Acquire 1 Fear.
+5,ARCANE ENCOUNTER,,loveland,loveland_6.png,arcane_encounter_sketch.png,Acquire 1 Fear.
 1,HALLUCINATIONS,,loveland,loveland_7.png,hallucinations.jpg,Inflict 1 Suspicion.
-1,LOVELAND ALWAYS WINS,,loveland,loveland_8.png,yea_baby.jpg,"The next time you're tasked with rolling the Magic Die this turn, roll it twice, and use the higher result as the result of your roll."
+1,ALIGNING THE STARS,,loveland,loveland_8.png,aligning_the_stars_sketch.png,"The next time you're tasked with rolling the Magic Die this turn, roll it twice, and use the higher result as the result of your roll."
 1,TOIL AND TROUBLE,,loveland,loveland_9.png,toil_and_trouble.png,"Roll the Magic Die. Acquire Fear equal to half the roll's value, rounded up."
 2,INTRUDER,2,mothman,mothman_1.png,twilight_edward.jpg,"Reveal the top card of the main deck, copy its effect, place it at the bottom of the deck."
 3,A TERRIBLE OMEN,2,mothman,mothman_2.png,hellboy_hung.jpg,Acquire a card that costs 4 or less.

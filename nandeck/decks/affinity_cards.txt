@@ -9,6 +9,6 @@ MARGINS=0.25,0.25,0.25,0.25
 IMAGE=,"../../final_cards/[exported_card_name]",0%,0%,100%,100%,0,C
 
 
-;DISPLAY="..\export\final_deck{§}.png",,,10x7
+DISPLAY="..\export\final_deck{§}.png",,,10x7
 
 GAP=0.01, 0.015
