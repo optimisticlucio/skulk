@@ -18,13 +18,13 @@ count,name,cost,alliance,exported_card_name,img,description
 1,HALLUCINATIONS,,loveland,loveland_7.png,hallucinations.jpg,Inflict 1 Suspicion.
 1,ALIGNING THE STARS,,loveland,loveland_8.png,aligning_the_stars_sketch.png,"The next time you're tasked with rolling the Magic Die this turn, roll it twice, and use the higher result as the result of your roll."
 1,TOIL AND TROUBLE,,loveland,loveland_9.png,toil_and_trouble.png,"Roll the Magic Die. Acquire Fear equal to half the roll's value, rounded up."
-2,INTRUDER,2,mothman,mothman_1.png,twilight_edward.jpg,"Reveal the top card of the main deck, copy its effect, place it at the bottom of the deck."
+2,INTRUDER,2,mothman,mothman_1.png,twilight_edward.jpg,"Reveal the top card of the Town deck, copy its effect, place it at the bottom of the deck."
 3,A TERRIBLE OMEN,2,mothman,mothman_2.png,hellboy_hung.jpg,Acquire a card that costs 4 or less.
-3,SELECTIVE ENTRY,2,mothman,mothman_3.png,selection_song.jpg,"Look at the top card of the Main Deck, you may return it to the top or bottom of the deck. Bury a Town card."
-2,PLUCK FROM THE STREETS,3,mothman,mothman_4.png,mii_grabbed.jpg,Place a card from the graveyard on either the top or bottom of the main deck.
+3,SELECTIVE ENTRY,2,mothman,mothman_3.png,selection_song.jpg,"Look at the top card of the Town Deck, you may return it to the top or bottom of the deck. Bury a Town card."
+2,PLUCK FROM THE STREETS,3,mothman,mothman_4.png,mii_grabbed.jpg,Place a card from the graveyard on either the top or bottom of the Town Deck.
 2,BLINDING LIGHT,4,mothman,mothman_5.png,blinding_light_v1.png,"Bury a town card. You may continue to bury cards, as long as each successive card costs 1 Fear more than the previous. Inflict 1 suspicion for each card buried this way."
-3,FOLLOW THE LIGHT,5,mothman,mothman_6.png,turbo_moth.jpg,"When this card is acquired, bury this card, and acquire the top 3 cards of the main deck."
-1,WATCH THE GATES,,mothman,mothman_7.png,toy_story_monkey.jpg,Look at the top 4 cards of the town deck. You may return them to the top or bottom of the deck in any order.
+3,FOLLOW THE LIGHT,5,mothman,mothman_6.png,turbo_moth.jpg,"When this card is acquired, bury this card, and acquire the top 3 cards of the Town Deck."
+1,WATCH THE GATES,,mothman,mothman_7.png,toy_story_monkey.jpg,Look at the top 4 cards of the Town deck. You may return them to the top or bottom of the deck in any order.
 5,EYES IN THE DARK,,mothman,mothman_8.png,eyes_in_the_dark_v3.png,Acquire 1 Fear.
 1,TRICK OF THE LIGHT,,mothman,mothman_9.png,trick_of_the_light.jpg,Inflict 1 Suspicion.
 1,SCOUT PREY,,mothman,mothman_10.png,herobrine.jpg,Copy the effect of a town card whose cost is 3 or less. 
@@ -49,7 +49,7 @@ count,name,cost,alliance,exported_card_name,img,description
 4,INSATIABLE HUNGER,1,wendigo,windigo_1.png,insatiable_hunger_sketch.png,Acquire 1 Fear. Bury a card in your hand or discard pile.
 2,DEAD WEIGHT,2,wendigo,windigo_2.png,you_are_an_idiot.png,"When this card is acquired, place it in the opponent's discard pile. Does nothing."
 4,"ERASE, REPLACE",2,wendigo,windigo_3.png,your_eternal_reward.jpg,"Copy the effect of a card in your play area, then bury it."
-3,BACK FOR SECONDS,4,wendigo,windigo_4.png,back_for_seconds_sketch.png,"Choose a card in the Graveyard. Copy its effect, then place it at the bottom of the main deck."
+3,BACK FOR SECONDS,4,wendigo,windigo_4.png,back_for_seconds_sketch.png,"Choose a card in the Graveyard. Copy its effect, then place it at the bottom of the Town Deck."
 2,NO MAN'S LAND,5,wendigo,windigo_5.png,deadpool_and_wolverine.png,Acquire 2 Fear. This turn you may buy a card from the graveyard as if it were a town card.
 5,HOWLING WINDS,,wendigo,windigo_6.png,howling_winds_sketch.png,Acquire 1 Fear.
 1,PLANTED EVIDENCE,,wendigo,windigo_7.png,cartoon_severed_arm.jpg,Inflict 1 Suspicion.

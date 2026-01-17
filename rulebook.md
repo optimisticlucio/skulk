@@ -22,7 +22,7 @@ At the start of the game, each player will select one of the game's cryptids to 
 
 Once each player has selected their character, remove the rest of the cryptids from the table.
 
-Take the **Main Deck** and shuffle both Influence Decks into it, (separate them again once you're done playing,) then place the main deck between both players. Take the top six cards of the Main Deck and place them somewhere both players can reach, this is now **the Town.** *The Town should have six cards at any given moment, and if a card is removed during gameplay, immediately refill the Town with cards from the top of the Main Deck.*
+Take the **Town Deck** and shuffle both Influence Decks into it, (separate them again once you're done playing,) then place the main deck between both players. Take the top six cards of the Main Deck and place them somewhere both players can reach, this is now **the Town.** *The Town should have six cards at any given moment, and if a card is removed during gameplay, immediately refill the Town with cards from the top of the Main Deck.*
 
 Take the **Suspicion Meter**, placing it between both players, and place the **Suspicion Marker** at 0; the center. This meter represents how much the town is suspicious of you, and once it hits the end, you lose.
 

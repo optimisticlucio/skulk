@@ -16,6 +16,20 @@ It'll be written in reverse chronological order so the newest is higher up, maki
 
 ## Playtest Notes
 
+### Jan 17th, Game 1
+
+Scorpig (Mothman), Skyber (Flatwoods)
+
+#### Notes
+
+- [ ] WE NEED A VISUAL TURN EXAMPLE URGENTLY
+- [ ] "Main Deck" is confusing for people not used to card games. CLARIFY "personal deck" and "town deck" WHEN POSSIBLE.
+- [ ] Scorpig forgot about the abilities existing, but after seeing them in use once started regularly using his.
+- [ ] Scorpig often forgets that a card that's bought is only used on the following turns.
+- [ ] Maybe the Drone-gaining cards should be a little cheaper? Flatwoods takes a WHILE to get going otherwise.
+- [ ] Scorpig suggested making it a 3+ player game, saying the game being political would fit the thematics.
+- [ ] Scorpig noted that there's no reason to ever play a card, and suggested getting some benefit from not playing cards
+
 ### Jan 10th, Game 6
 
 Darth (Loveland), Skyber (Flatwoods)
