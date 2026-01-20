@@ -21,7 +21,7 @@ count,name,cost,alliance,exported_card_name,img,description
 2,INTRUDER,2,mothman,mothman_1.png,twilight_edward.jpg,"Reveal the top card of the Town deck, copy its effect, place it at the bottom of the deck."
 3,A TERRIBLE OMEN,2,mothman,mothman_2.png,hellboy_hung.jpg,Acquire a card that costs 4 or less.
 3,PLUCK FROM THE STREETS,3,mothman,mothman_3.png,mii_grabbed.jpg,Place a card from the graveyard on either the top or bottom of the Town Deck.
-2,SPREADING THE FLAME,3,mothman,mothman_4.png,pipe_bomb.png,"Bury a Town card, and place this card in its place. If it completes a row of cards with the same association, bury all three and inflict 3 suspicion."
+2,SPREADING THE FLAME,3,mothman,mothman_4.png,pipe_bomb.png,"Bury a Town card, and place this card in its place. If this action completes a row of cards with the same association, bury all three cards and inflict 3 suspicion."
 2,BLINDING LIGHT,4,mothman,mothman_5.png,blinding_light_v1.png,"Bury a town card. You may continue to bury cards, as long as each successive card costs 1 Fear more than the previous. Inflict 1 suspicion for each card buried this way."
 3,FOLLOW THE LIGHT,5,mothman,mothman_6.png,turbo_moth.jpg,"When this card is acquired, bury this card, and acquire the top 3 cards of the Town Deck."
 1,WATCH THE GATES,,mothman,mothman_7.png,toy_story_monkey.jpg,Look at the top 4 cards of the Town deck. You may return them to the top or bottom of the deck in any order.
