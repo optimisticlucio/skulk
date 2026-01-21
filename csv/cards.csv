@@ -15,9 +15,9 @@ count,name,cost,alliance,exported_card_name,img,description
 3,POWER WORD: MISSILE,5,loveland,loveland_4.png,casting_couch.png,Discard the top card of your deck. Inflict suspicion equal to its cost.
 3,INCESSANT CHANTING,4,loveland,loveland_5.png,incessant_chanting.jpg,"Repeatedly roll the Magic Die, until you roll 3 or lower. Draw a card for every roll you did this way."
 5,ARCANE ENCOUNTER,,loveland,loveland_6.png,arcane_encounter_sketch.png,Acquire 1 Fear.
-1,HALLUCINATIONS,,loveland,loveland_7.png,hallucinations.jpg,Inflict 1 Suspicion.
+1,MAGIC TRICK,,loveland,loveland_7.png,magic_trick.png,Inflict 1 Suspicion.
 1,ALIGNING THE STARS,,loveland,loveland_8.png,aligning_the_stars_sketch.png,"The next time you're tasked with rolling the Magic Die this turn, roll it twice, and use the higher result as the result of your roll."
-1,TOIL AND TROUBLE,,loveland,loveland_9.png,toil_and_trouble.png,"Roll the Magic Die. Acquire Fear equal to half the roll's value, rounded up."
+1,TOIL AND TROUBLE,,loveland,loveland_9.png,toil_and_trouble_v2.png,"Roll the Magic Die. Acquire Fear equal to half the roll's value, rounded up."
 2,INTRUDER,2,mothman,mothman_1.png,twilight_edward.jpg,"Reveal the top card of the Town deck, copy its effect, place it at the bottom of the deck."
 3,A TERRIBLE OMEN,2,mothman,mothman_2.png,hellboy_hung.jpg,Acquire a card that costs 4 or less.
 3,PLUCK FROM THE STREETS,3,mothman,mothman_3.png,mii_grabbed.jpg,Place a card from the graveyard on either the top or bottom of the Town Deck.
