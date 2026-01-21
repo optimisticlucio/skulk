@@ -1,6 +1,6 @@
 count,name,cost,alliance,exported_card_name,img,description
 3,FOLLOW MY VOICE,2,flatwoods,flatwoods_1.png,dunmesh_siren.jpg,"Acquire a Drone, OR, acquire 1 Fear for every drone in your play area."
-3,GIVE IN,2,flatwoods,flatwoods_2.png,give_in_v1.png,"Bury a card in your discard pile, acquire a Drone."
+3,GIVE IN,1,flatwoods,flatwoods_2.png,give_in_v1.png,"Bury a card in your discard pile, acquire a Drone."
 3,EYES EVERYWHERE,4,flatwoods,flatwoods_3.png,inception_crowd.jpg,"Draw three cards, discard two."
 3,SCOUT,4,flatwoods,flatwoods_4.png,makima_crows.jpg,"Acquire a Drone, OR, draw a card for every Drone in your play area."
 3,HORDE,5,flatwoods,flatwoods_5.png,horde_v1.png,"Acquire a Drone, OR, bury all Drones in your play area and inflict 2 suspicion for each."
@@ -21,10 +21,10 @@ count,name,cost,alliance,exported_card_name,img,description
 2,INTRUDER,2,mothman,mothman_1.png,twilight_edward.jpg,"Reveal the top card of the Town deck, copy its effect, place it at the bottom of the deck."
 3,A TERRIBLE OMEN,2,mothman,mothman_2.png,hellboy_hung.jpg,Acquire a card that costs 4 or less.
 3,PLUCK FROM THE STREETS,3,mothman,mothman_3.png,mii_grabbed.jpg,Place a card from the graveyard on either the top or bottom of the Town Deck.
-2,SPREADING THE FLAME,3,mothman,mothman_4.png,pipe_bomb.png,"Bury a Town card, and place this card in its place. If this action completes a row of cards with the same association, bury all three cards and inflict 3 suspicion."
+2,SPREADING THE FLAME,3,mothman,mothman_4.png,pipe_bomb.png,"Bury a Town card, and place this card in its place. If this action completes a row of cards with the same association, bury all three cards and inflict 4 suspicion."
 2,BLINDING LIGHT,4,mothman,mothman_5.png,blinding_light_v1.png,"Bury a town card. You may continue to bury cards, as long as each successive card costs 1 Fear more than the previous. Inflict 1 suspicion for each card buried this way."
 3,FOLLOW THE LIGHT,5,mothman,mothman_6.png,turbo_moth.jpg,"When this card is acquired, bury this card, and acquire the top 3 cards of the Town Deck."
-1,WATCH THE GATES,,mothman,mothman_7.png,toy_story_monkey.jpg,Look at the top 4 cards of the Town deck. You may return them to the top or bottom of the deck in any order.
+1,WATCH THE GATES,,mothman,mothman_7.png,toy_story_monkey.jpg,Look at the top 3 cards of the Town deck. You may return them to the top or bottom of the deck in any order.
 5,EYES IN THE DARK,,mothman,mothman_8.png,eyes_in_the_dark_v3.png,Acquire 1 Fear.
 1,TRICK OF THE LIGHT,,mothman,mothman_9.png,trick_of_the_light.jpg,Inflict 1 Suspicion.
 1,SCOUT PREY,,mothman,mothman_10.png,herobrine.jpg,Copy the effect of a town card whose cost is 3 or less. 
