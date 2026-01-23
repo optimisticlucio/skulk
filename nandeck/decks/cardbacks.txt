@@ -1,0 +1,15 @@
+LINKMULCOPY=OFF
+LINKMULTI=count
+LINK=..\..\csv\cards.csv
+
+PAGE=21,29.7,PORTRAIT,HV
+CARDSIZE=6.7,9.2
+;MARGINS=0.1,0.1,0.1,0.1
+
+;Cardback Art
+IMAGE=,"../../img/tokens_and_others/cardback_v2.png",0%,0%,100%,100%,0,C
+
+
+;DISPLAY="..\export\final_deck{§}.png",,,10x7
+
+GAP=0.02, 0.015
