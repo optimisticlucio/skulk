@@ -1,5 +1,5 @@
 count,name,cost,alliance,exported_card_name,img,description
-3,FOLLOW MY VOICE,1,flatwoods,flatwoods_1.png,dunmesh_siren.jpg,Bury a Town Card. Acquire a Drone.
+3,FOLLOW MY VOICE,1,flatwoods,flatwoods_1.png,follow_my_voice.png,Bury a Town Card. Acquire a Drone.
 3,GIVE IN,1,flatwoods,flatwoods_2.png,give_in_v1.png,Bury a card in your discard pile. Acquire a Drone.
 3,EYES EVERYWHERE,3,flatwoods,flatwoods_3.png,inception_crowd.jpg,"Draw three cards, discard two."
 3,SCOUT,4,flatwoods,flatwoods_4.png,makima_crows.jpg,"Acquire a Drone, OR, draw a card for every Drone in your play area."
@@ -46,7 +46,7 @@ count,name,cost,alliance,exported_card_name,img,description
 2,HYSTERIA,8,neutral,town_16.png,dd_affliction.webp,Inflict 4 suspicion.
 4,INSATIABLE HUNGER,1,wendigo,windigo_1.png,insatiable_hunger_sketch.png,Acquire 1 Fear. Bury a card in your hand or discard pile.
 2,DEAD WEIGHT,2,wendigo,windigo_2.png,you_are_an_idiot.png,"When this card is acquired, place it in the opponent's discard pile. Does nothing."
-4,"ERASE, REPLACE",2,wendigo,windigo_3.png,your_eternal_reward.jpg,"Copy the effect of a card in your play area, then bury it."
+4,"ERASE, REPLACE",2,wendigo,windigo_3.png,erase_replace.png,"Copy the effect of a card in your play area, then bury it."
 3,BACK FOR SECONDS,4,wendigo,windigo_4.png,back_for_seconds_sketch.png,"Choose a card in the Graveyard. Copy its effect, then place it at the bottom of the Town Deck."
 2,NO MAN'S LAND,5,wendigo,windigo_5.png,deadpool_and_wolverine.png,Acquire 2 Fear. This turn you may buy a card from the graveyard as if it were a town card.
 5,HOWLING WINDS,,wendigo,windigo_6.png,howling_winds_sketch.png,Acquire 1 Fear.
