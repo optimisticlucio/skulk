@@ -9,9 +9,9 @@ count,name,cost,alliance,exported_card_name,img,description
 1,SLAVES FOR CHEAP,,flatwoods,flatwoods_8.png,bugs_pulled_out.png,Acquire a Drone. Acquire 1 Fear for every Drone in your play area.
 5,UFO,,flatwoods,flatwoods_9.png,ufo.png,Acquire 1 Fear.
 1,CONSPIRACY THEORIST,,flatwoods,flatwoods_10.png,conspiracy_theorist.png,Inflict 1 Suspicion.
-3,THE GREAT AND POWERFUL,4,loveland,loveland_1.png,the_great_and_powerful_v1.png,Discard all of your Fear. Inflict 1 suspicion for every 2 Fear discarded this way.
+3,THE GREAT AND POWERFUL,3,loveland,loveland_1.png,the_great_and_powerful_v1.png,"Every time you roll the Magic Die this turn, inflict 1 suspicion."
 3,POWER WORD: CURSE,3,loveland,loveland_2.png,shadow_word_pain.jpg,"Name a number, roll the Magic Die. If you roll lower, self-inflict the named amount of suspicion. Otherwise, inflict the named amount."
-3,POWER WORD: STRENGTH,3,loveland,loveland_3.png,hellboy_crown.jpg,Roll the Magic Die. Reveal a number of cards from the top of the deck equal to the die's value. You may or may not purchase one. Place the rest at the bottom of the deck.
+3,POWER WORD: STRENGTH,5,loveland,loveland_3.png,hellboy_crown.jpg,"Discard any amount of Fear. For every 2 fear discarded, add 1 to every dice roll this turn."
 3,POWER WORD: MISSILE,5,loveland,loveland_4.png,casting_couch.png,Discard the top card of your deck. Inflict suspicion equal to its cost.
 3,INCESSANT CHANTING,4,loveland,loveland_5.png,incessant_chanting.jpg,"Repeatedly roll the Magic Die, until you roll 3 or lower. Draw a card for every roll you did this way."
 5,ARCANE ENCOUNTER,,loveland,loveland_6.png,arcane_encounter_sketch.png,Acquire 1 Fear.
@@ -38,7 +38,7 @@ count,name,cost,alliance,exported_card_name,img,description
 3,SCOPOPHOBIA,4,neutral,town_8.png,makima_is_listening.jpg,Copy your character card's ability without paying the associated suspicion cost.
 3,HERD MENTALITY,4,neutral,town_9.png,faceless_mob.jpg,Copy the effect of a card in your play area.
 4,OCCULT ACTIVITY,4,neutral,town_10.png,occult_activity_sketch.png,Inflict 2 Suspicion.
-2,PITCHFORKS AND TORCHES,5,neutral,town_11.png,simpsons_pitchforks.jpg,"For every two cards in your play area, including this one, inflict suspicion."
+2,PITCHFORKS AND TORCHES,5,neutral,town_11.png,simpsons_pitchforks.jpg,"Every time you inflict suspicion this turn, inflict an additional 1 suspicion."
 2,REVEL IN INFAMY,5,neutral,town_12.png,batman.jpg,Acquire Fear equal to the Suspicion Meter's current value.
 2,AS IT WAS WRITTEN,6,neutral,town_13.png,dune_prophecy.jpg,Inflict 2 suspicion. Place a card from your discard pile in your hand.
 1,BLIND ADRENALINE,7,neutral,town_14.png,adrenaline.webp,Draw three cards.
